@@ -1,0 +1,1523 @@
+precio,ambientes,no_baños,terreno_m2,año_constr,no_dormitorios,area_constr_m2,estacionamientos,latitud,longitud,tipo_de_propiedad,ofertado_como,ciudad,zona,provincia,dpto
+67000.0,8.0,2.0,320.0,2017,3.0,140.0,,-17.769,-63.066,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+67000.0,5.0,2.0,91.0,2018,2.0,91.0,,-17.804,-63.157,Departamento,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+68000.0,,2.0,193.0,2015,3.0,87.0,,-17.836,-63.245,Casa,En Venta,Santa Cruz de la Sierra,Suroeste, Andrés Ibáñez, Santa Cruz
+68000.0,2.0,1.0,,2016,1.0,62.83,,-17.755,-63.196,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+68000.0,8.0,2.0,300.0,2022,3.0,110.0,,-17.653,-63.173,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+68000.0,5.0,2.0,250.0,2021,3.0,98.0,2.0,-17.792,-63.093,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+68000.0,,1.0,,2022,1.0,59.5,,-17.787,-63.221,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+68000.0,6.0,2.0,336.0,2023,3.0,198.0,,-17.846,-63.097,Casa,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+68000.0,5.0,1.0,,2017,2.0,68.0,1.0,-17.792,-63.224,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+68000.0,7.0,2.0,260.5,2019,3.0,120.0,,-17.791,-63.089,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+68000.0,8.0,2.0,260.5,2019,3.0,120.0,,-17.791,-63.089,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+68000.0,8.0,2.0,260.5,2019,3.0,120.0,,-17.791,-63.089,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+68000.0,,2.0,260.5,2019,3.0,120.0,,-17.791,-63.089,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+68000.0,8.0,3.0,360.0,2020,3.0,180.0,,-17.731,-63.078,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+68000.0,8.0,2.0,240.0,2020,3.0,200.0,,-17.847,-63.275,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+68500.0,5.0,2.0,85.0,2018,2.0,85.0,,-17.804,-63.157,Departamento,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+68660.0,9.0,2.0,,2022,2.0,78.4,,-17.764,-63.248,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+69000.0,,1.0,,2018,1.0,56.96,,-17.792,-63.176,Departamento,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+69000.0,3.0,1.0,35.0,2016,1.0,35.0,12.0,-17.758,-63.199,Estudio/Monoambiente,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+69300.0,,2.0,,2024,2.0,56.0,,-17.765,-63.194,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+69500.0,5.0,2.0,150.0,2023,3.0,145.0,,-17.756,-63.079,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+69500.0,8.0,3.0,150.0,2023,3.0,135.0,,-17.756,-63.078,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+69500.0,10.0,2.0,231.0,1996,4.0,135.0,1.0,-17.795,-63.122,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+69600.0,,2.0,,2024,2.0,56.0,,-17.765,-63.194,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+69600.0,,2.0,,2024,2.0,56.0,,-17.765,-63.194,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+69900.0,6.0,2.0,300.0,2023,3.0,107.0,,-17.676,-63.19,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+70000.0,,2.0,390.0,2007,2.0,128.0,,-17.577,-63.888,Casa,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+70000.0,4.0,1.0,390.0,2005,3.0,110.0,,-17.829,-63.12,Casa,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+70000.0,,4.0,,1994,3.0,156.0,,-17.785,-63.171,Departamento,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+70000.0,,1.0,360.0,2003,3.0,100.0,,-17.86,-63.215,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+70000.0,9.0,2.0,596.0,2012,5.0,304.0,,-17.859,-63.137,Casa,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+70000.0,5.0,2.0,250.0,2019,3.0,110.0,,-17.757,-63.098,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+70000.0,6.0,1.0,300.0,1994,4.0,120.0,3.0,-17.836,-63.131,Casa,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+70000.0,10.0,2.0,"31,475",2009,3.0,"10,418",,-17.76,-63.099,Casa,En Venta,Cotoca,"ZONA ESTE, CARRETERA A COTOCA KM 5", Andrés Ibáñez, Santa Cruz
+70000.0,5.0,2.0,300.0,2020,3.0,155.0,1.0,-17.644,-63.176,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+70000.0,,2.0,,2022,2.0,57.8,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+70000.0,,2.0,,2022,2.0,57.8,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+70000.0,,2.0,,2022,2.0,57.8,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+70000.0,5.0,2.0,,2022,2.0,57.8,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+70000.0,5.0,2.0,,2022,2.0,57.8,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+70000.0,,2.0,,2022,2.0,57.8,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+70000.0,4.0,2.0,409.0,2001,3.0,115.0,,-17.751,-63.123,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+70262.0,,2.0,,2024,2.0,56.0,,-17.765,-63.194,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+70560.0,,2.0,,2023,2.0,78.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+70560.0,,2.0,,2023,2.0,78.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+71000.0,2.0,1.0,"1,590",2020,1.0,"4,615",,-17.767,-63.196,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+71302.0,,2.0,,2024,2.0,56.0,,-17.765,-63.194,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+72000.0,7.0,2.0,300.0,2019,3.0,197.0,,-17.609,-63.165,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+72000.0,,1.0,,2018,1.0,50.34,1.0,-17.761,-63.2,Estudio/Monoambiente,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+72500.0,4.0,2.0,,2021,2.0,82.5,,-17.746,-63.153,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+72900.0,10.0,2.0,228.0,2023,3.0,106.0,,-17.673,-63.173,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+73000.0,6.0,2.0,,2022,3.0,83.7,,-17.716,-63.187,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+73000.0,8.0,2.0,437.0,2018,3.0,115.0,,-17.75,-62.981,Casa,En Venta,Cotoca,AV. SIN NOMBRE, Andrés Ibáñez, Santa Cruz
+72800.0,6.0,2.0,300.0,2022,3.0,107.0,,-17.677,-63.193,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+74000.0,3.0,1.0,44.24,2023,1.0,44.24,,-17.764,-63.174,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+74000.0,4.0,2.0,815.0,2019,2.0,815.0,20.0,-17.726,-63.17,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+74250.0,4.0,1.0,,2022,1.0,55.0,1.0,-17.762,-63.2,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+74250.0,4.0,1.0,,2022,1.0,55.0,1.0,-17.762,-63.2,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+74520.0,,2.0,,2023,2.0,82.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+74520.0,,2.0,,2023,2.0,82.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+74520.0,,2.0,,2023,2.0,82.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+75000.0,10.0,2.0,333.75,2010,7.0,137.0,3.0,-17.84,-63.204,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+75000.0,7.0,2.0,400.97,2017,3.0,200.0,,-17.653,-63.167,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+75000.0,5.0,2.0,360.0,2020,2.0,91.66,4.0,-17.9,-63.317,Casa,En Venta,La guardia,"Barrio la Victoria, Municipio la Guardia Distrito", Andrés Ibáñez, Santa Cruz
+75000.0,13.0,3.0,300.0,2003,6.0,245.0,,-17.748,-62.989,Casa,En Venta,Cotoca,Los Tajibos, Andrés Ibáñez, Santa Cruz
+75000.0,,3.0,240.0,2022,3.0,120.0,2.0,-17.675,-63.19,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+75000.0,,3.0,240.0,2022,3.0,120.0,2.0,-17.675,-63.19,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+75000.0,,3.0,240.0,2022,3.0,120.0,2.0,-17.675,-63.19,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+75000.0,,3.0,240.0,2022,3.0,120.0,2.0,-17.675,-63.19,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+75000.0,,3.0,240.0,2022,3.0,120.0,2.0,-17.675,-63.19,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+75000.0,,1.0,390.74,2013,3.0,100.0,,-17.854,-63.201,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+75000.0,,3.0,247.5,2010,3.0,165.0,,-17.662,-63.167,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+75000.0,4.0,1.0,86.0,2016,2.0,86.0,1.0,-17.812,-63.221,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+75000.0,3.0,2.0,52.0,2019,1.0,52.0,1.0,-17.797,-63.177,Departamento,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+75000.0,,2.0,366.0,2019,3.0,120.0,,-17.845,-63.245,Casa,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+75000.0,,3.0,250.0,2015,3.0,142.0,,-17.608,-63.094,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+75000.0,,1.0,,2016,1.0,44.1,,-17.763,-63.185,Estudio/Monoambiente,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+75000.0,5.0,2.0,,2016,2.0,79.0,,-17.787,-63.215,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+75000.0,6.0,2.0,,2021,2.0,79.0,1.0,-17.683,-63.159,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+75000.0,,3.0,367.0,2021,3.0,173.0,2.0,-17.89,-63.313,Casa,En Venta,La guardia,, Andrés Ibáñez, Santa Cruz
+75000.0,,3.0,,2006,3.0,95.27,,-17.799,-63.215,Departamento,En Venta,Santa Cruz de la Sierra,Suroeste, Andrés Ibáñez, Santa Cruz
+75000.0,6.0,2.0,366.0,2008,3.0,190.0,,-17.76,-62.993,Casa,En Venta,Cotoca,Las Vegas No. 8, Andrés Ibáñez, Santa Cruz
+75250.0,,3.0,,2022,4.0,115.0,,-17.765,-63.035,Casa,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+75592.0,,2.0,,2024,2.0,77.93,,-17.765,-63.174,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+75925.0,,2.0,,2025,2.0,61.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+75925.0,,2.0,,2025,2.0,61.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+75925.0,,2.0,,2025,2.0,61.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+75925.0,,2.0,,2025,2.0,61.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+75925.0,,2.0,,2025,2.0,61.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+75925.0,,2.0,,2025,2.0,61.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+75925.0,,2.0,,2025,2.0,61.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+75925.0,,2.0,,2025,2.0,61.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+75925.0,,2.0,,2025,2.0,61.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+75925.0,,2.0,,2025,2.0,61.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+75925.0,,2.0,,2025,2.0,61.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+75925.0,,2.0,,2025,2.0,61.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+76000.0,,3.0,,2012,3.0,110.0,,-17.738,-63.174,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+76500.0,7.0,2.0,215.0,2023,3.0,115.0,2.0,-17.761,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+76686.0,,1.0,,2023,1.0,54.0,,-17.758,-63.198,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+76873.0,,2.0,,2025,2.0,59.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+76873.0,,2.0,,2025,2.0,59.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+76873.0,,2.0,,2025,2.0,59.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+76873.0,,2.0,,2025,2.0,59.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+76873.0,,2.0,,2025,2.0,59.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+76873.0,,2.0,,2025,2.0,59.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+76873.0,,2.0,,2025,2.0,59.0,,-17.769,-63.177,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+76873.0,,2.0,,2025,2.0,59.0,,-17.769,-63.177,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+76873.0,,2.0,,2025,2.0,59.0,,-17.769,-63.177,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+76873.0,,2.0,,2025,2.0,59.0,,-17.769,-63.177,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+77000.0,4.0,1.0,420.0,2011,2.0,127.0,,-17.794,-63.112,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+77000.0,,2.0,242.73,2015,3.0,117.0,,-17.754,-63.083,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+77661.0,,1.0,,2023,1.0,54.0,,-17.758,-63.198,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+77912.0,,2.0,,2025,2.0,60.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+77912.0,,2.0,,2025,2.0,60.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+77912.0,,2.0,,2025,2.0,60.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+77912.0,,2.0,,2025,2.0,60.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+77912.0,,2.0,,2025,2.0,60.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+77912.0,,2.0,,2025,2.0,60.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+77912.0,,2.0,,2025,2.0,60.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+77912.0,,2.0,,2025,2.0,60.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+77912.0,,2.0,,2025,2.0,60.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+77912.0,,2.0,,2025,2.0,60.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+77912.0,,2.0,,2025,2.0,60.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+77912.0,,2.0,,2025,2.0,60.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+77912.0,,2.0,,2025,2.0,60.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+77912.0,,2.0,,2025,2.0,60.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+77912.0,,2.0,,2025,2.0,65.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+77912.0,,2.0,,2025,2.0,65.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+77912.0,,2.0,,2025,2.0,65.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+77912.0,,2.0,,2025,2.0,73.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+78000.0,5.0,2.0,465.4,2022,2.0,110.0,4.0,-17.871,-63.248,Casa,En Venta,La guardia,Municipio de la Guardia, Andrés Ibáñez, Santa Cruz
+78000.0,10.0,2.0,210.0,2020,3.0,120.0,,-17.812,-63.139,Casa,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+78000.0,,3.0,250.0,2003,3.0,139.0,,-17.76,-63.095,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+78000.0,1.0,2.0,400.0,2016,3.0,180.0,,-17.762,-63.19,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+78000.0,,1.0,,2021,1.0,47.47,,-17.768,-63.199,Departamento,En Venta,Santa Cruz de la Sierra,Noroeste, Andrés Ibáñez, Santa Cruz
+78000.0,6.0,3.0,360.0,2022,4.0,145.0,,-17.824,-63.254,Casa,En Venta,Santa Cruz de la Sierra,Suroeste, Andrés Ibáñez, Santa Cruz
+78000.0,5.0,1.0,379.73,2022,3.0,230.49,2.0,-17.895,-63.316,Casa con Espacio Comercial,En Venta,La guardia,LA GUARDIA SANTA CRUZ-URB. BARRIO NUEVO, Andrés Ibáñez, Santa Cruz
+78000.0,8.0,2.0,366.0,2005,5.0,180.0,,-17.732,-63.117,Casa,En Venta,Santa Cruz de la Sierra,Noreste, Andrés Ibáñez, Santa Cruz
+78000.0,,2.0,346.0,2016,3.0,165.0,,-17.613,-63.161,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+78000.0,4.0,2.0,,2021,2.0,83.0,,-17.687,-63.167,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+78000.0,,1.0,540.0,1994,4.0,180.0,,-17.754,-63.116,Casa,En Venta,Santa Cruz de la Sierra,Noreste, Andrés Ibáñez, Santa Cruz
+78000.0,6.0,2.0,407.0,2022,3.0,144.0,3.0,-17.883,-63.238,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+78500.0,8.0,2.0,237.08,2021,3.0,141.0,,-17.763,-63.101,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+78500.0,8.0,2.0,237.08,2021,3.0,141.0,,-17.763,-63.101,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+79000.0,9.0,2.0,,2014,2.0,109.0,,-17.74,-63.181,Departamento,En Venta,Santa Cruz de la Sierra,North, Andrés Ibáñez, Santa Cruz
+79500.0,,2.0,,2013,2.0,81.0,1.0,-17.742,-63.174,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+79500.0,2.0,1.0,,2016,1.0,51.25,1.0,-17.762,-63.185,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+79650.0,,2.0,,2023,2.0,88.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+79650.0,,2.0,,2023,2.0,88.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+79650.0,,2.0,,2023,2.0,88.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+79650.0,,2.0,,2023,2.0,88.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+79650.0,,2.0,,2023,2.0,88.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+79650.0,,2.0,,2023,2.0,88.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+79650.0,,2.0,,2023,2.0,88.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+79650.0,,2.0,,2023,2.0,88.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+79650.0,,2.0,,2023,2.0,88.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+79650.0,,2.0,,2023,2.0,88.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+79650.0,,2.0,,2023,2.0,88.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+79650.0,,2.0,,2023,2.0,88.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+79650.0,,2.0,,2023,2.0,88.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+79650.0,,2.0,,2023,2.0,88.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+79650.0,,2.0,,2023,2.0,88.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+79900.0,9.0,3.0,240.0,2023,3.0,150.0,,-17.672,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+79900.0,9.0,3.0,240.0,2023,3.0,150.0,,-17.672,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+79900.0,9.0,3.0,160.0,2023,3.0,150.0,,-17.672,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+79900.0,9.0,3.0,240.0,2023,3.0,150.0,,-17.672,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+79900.0,9.0,3.0,240.0,2023,3.0,150.0,,-17.672,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+79900.0,4.0,2.0,,2021,3.0,86.0,,-17.713,-63.176,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+79900.0,,1.0,,2019,1.0,71.0,,-17.758,-63.195,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+80000.0,2.0,2.0,381.0,1996,6.0,170.0,6.0,-17.891,-63.324,Casa,En Venta,La guardia,, Andrés Ibáñez, Santa Cruz
+80000.0,,2.0,,2023,2.0,66.99,,-17.757,-63.193,Departamento,En Venta,Santa Cruz de la Sierra,Noroeste, Andrés Ibáñez, Santa Cruz
+80000.0,,3.0,270.0,2008,4.0,170.0,2.0,-17.852,-63.171,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+80000.0,1.0,1.0,,2022,1.0,42.0,,-17.758,-63.198,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+80000.0,10.0,2.0,228.0,2023,3.0,106.0,2.0,-17.678,-63.158,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+80000.0,6.0,2.0,,2022,3.0,83.7,,-17.715,-63.176,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+80000.0,6.0,2.0,,2022,3.0,83.7,,-17.715,-63.176,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+80000.0,6.0,2.0,,2022,3.0,83.7,,-17.715,-63.176,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+80000.0,6.0,2.0,,2022,3.0,83.7,,-17.715,-63.176,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+80000.0,6.0,2.0,,2022,3.0,83.7,,-17.716,-63.187,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+80000.0,6.0,2.0,,2022,3.0,83.7,,-17.716,-63.187,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+80000.0,6.0,2.0,,2022,3.0,83.7,,-17.716,-63.187,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+80000.0,6.0,2.0,,2022,3.0,83.7,,-17.716,-63.187,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+80000.0,,2.0,,2020,3.0,80.0,,-17.713,-63.176,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+80000.0,,2.0,225.6,2013,3.0,138.05,,-17.728,-63.145,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+80000.0,,1.0,,2022,,49.97,,-17.76,-63.197,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+80000.0,,2.0,63.06,2020,1.0,63.06,,-17.805,-63.21,Departamento,En Venta,Santa Cruz de la Sierra,Las palmas, Andrés Ibáñez, Santa Cruz
+80000.0,6.0,3.0,360.0,2001,4.0,215.0,,-17.828,-63.162,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+80000.0,4.0,2.0,459.0,2013,9.0,100.0,,-17.856,-63.168,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+80000.0,4.0,1.0,,2012,2.0,78.0,1.0,-17.786,-63.221,Departamento,En Venta,Santa Cruz de la Sierra,Noroeste, Andrés Ibáñez, Santa Cruz
+80000.0,,2.0,360.0,2022,3.0,132.0,,-17.754,-63.058,Casa,En Venta,Santa Cruz de la Sierra,ESTE, Andrés Ibáñez, Santa Cruz
+80000.0,5.0,2.0,357.88,2017,3.0,120.0,1.0,-17.754,-63.083,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+80000.0,,2.0,,2020,3.0,80.0,,-17.713,-63.176,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+80000.0,10.0,2.0,,2009,3.0,124.0,,-17.777,-63.212,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+81000.0,,2.0,,2014,2.0,81.67,,-17.779,-63.169,Departamento,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+81000.0,6.0,2.0,360.0,2022,3.0,135.0,,-17.661,-63.162,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+81000.0,,1.0,,2017,1.0,51.0,,-17.763,-63.185,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+82000.0,,3.0,180.0,2020,3.0,163.0,,-17.713,-63.139,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+82000.0,6.0,1.0,360.0,2012,3.0,90.33,2.0,-17.851,-63.192,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+82000.0,4.0,2.0,,2019,2.0,77.0,,-17.792,-63.181,Departamento,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+82000.0,,2.0,,2021,2.0,102.5,,-17.782,-63.186,Departamento,En Venta,Santa Cruz de la Sierra,Centro (Casco Viejo), Andrés Ibáñez, Santa Cruz
+82592.0,,3.0,,2021,3.0,103.24,,-17.782,-63.186,Departamento,En Venta,Santa Cruz de la Sierra,Centro (Casco Viejo), Andrés Ibáñez, Santa Cruz
+82880.0,,2.0,,2023,2.0,103.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+82880.0,,2.0,,2023,2.0,103.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+82916.0,5.0,1.0,,2022,2.0,69.52,,-17.783,-63.171,Departamento,En Venta,Santa Cruz de la Sierra,Centro (Casco Viejo), Andrés Ibáñez, Santa Cruz
+83000.0,,2.0,303.9,2014,2.0,150.0,,-17.728,-63.121,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+83000.0,,2.0,,2014,2.0,84.35,,-17.779,-63.169,Departamento,En Venta,Santa Cruz de la Sierra,Centro (Casco Viejo), Andrés Ibáñez, Santa Cruz
+83000.0,9.0,2.0,183.3,2022,3.0,141.15,2.0,-17.674,-63.191,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+83000.0,9.0,2.0,183.3,2022,3.0,141.15,2.0,-17.674,-63.191,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+83106.0,,2.0,,2025,2.0,64.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+83106.0,,2.0,,2025,2.0,64.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+83106.0,,2.0,,2025,2.0,64.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+83106.0,,2.0,,2025,2.0,64.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+83106.0,,2.0,,2025,2.0,64.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+83106.0,,2.0,,2025,2.0,64.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+83106.0,,2.0,,2025,2.0,64.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+83106.0,,2.0,,2025,2.0,64.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+83106.0,,2.0,,2025,2.0,64.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+83106.0,,2.0,,2025,2.0,64.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+83272.0,,3.0,,2021,3.0,104.09,,-17.782,-63.186,Departamento,En Venta,Santa Cruz de la Sierra,Centro (Casco Viejo), Andrés Ibáñez, Santa Cruz
+83272.0,,3.0,,2021,3.0,104.09,,-17.782,-63.186,Departamento,En Venta,Santa Cruz de la Sierra,Centro (Casco Viejo), Andrés Ibáñez, Santa Cruz
+83908.0,,2.0,,2024,2.0,76.28,,-17.765,-63.174,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+84000.0,1.0,1.0,263.34,2019,3.0,103.38,,-10.767,-66.517,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+84175.0,,2.0,,2025,2.0,65.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+84175.0,,2.0,,2025,2.0,65.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+84175.0,,2.0,,2025,2.0,65.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+84175.0,,2.0,,2025,2.0,65.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+84175.0,,2.0,,2025,2.0,65.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+84175.0,,2.0,,2025,2.0,65.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+84175.0,,2.0,,2025,2.0,65.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+84175.0,,2.0,,2025,2.0,65.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+84175.0,,2.0,,2025,2.0,65.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+84175.0,,2.0,,2025,2.0,65.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+84175.0,,2.0,,2025,2.0,65.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+84175.0,,2.0,,2025,2.0,65.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+84175.0,,2.0,,2025,2.0,65.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+84175.0,,2.0,,2025,2.0,65.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+84175.0,,2.0,,2025,2.0,65.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+84175.0,,2.0,,2025,2.0,65.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+84175.0,,2.0,,2025,2.0,65.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+84175.0,,2.0,,2025,2.0,65.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+84175.0,,2.0,,2025,2.0,65.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+84432.0,,3.0,,2021,3.0,105.54,,-17.782,-63.186,Departamento,En Venta,Santa Cruz de la Sierra,Centro (Casco Viejo), Andrés Ibáñez, Santa Cruz
+84574.0,,2.0,,2021,3.0,86.3,,-17.789,-63.224,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+84900.0,5.0,2.0,130.0,2022,3.0,130.0,2.0,-17.842,-63.252,Casa,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+85000.0,3.0,1.0,,2003,1.0,107.0,,-17.772,-63.191,Departamento,En Venta,Santa Cruz de la Sierra,Noreste, Andrés Ibáñez, Santa Cruz
+85000.0,,2.0,300.0,2009,4.0,221.0,,-17.824,-63.226,Casa,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+85000.0,13.0,2.0,357.38,1996,10.0,264.0,,-0.001,0.001,Casa,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+85000.0,12.0,2.0,300.0,2017,3.0,154.0,,-17.706,-63.184,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+85000.0,4.0,2.0,82.5,2020,2.0,82.5,,-17.745,-63.153,Departamento,En Venta,Santa Cruz de la Sierra,Noreste, Andrés Ibáñez, Santa Cruz
+85000.0,8.0,2.0,450.0,2015,6.0,150.0,,-17.869,-63.17,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+85000.0,,3.0,150.0,2014,3.0,105.0,,-17.702,-63.166,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+85000.0,9.0,3.0,180.0,2022,3.0,141.0,,-17.731,-63.125,Casa,En Venta,Santa Cruz de la Sierra,Noreste, Andrés Ibáñez, Santa Cruz
+85000.0,,3.0,180.0,2022,3.0,138.0,2.0,-17.732,-63.125,Casa,En Venta,Santa Cruz de la Sierra,Noreste, Andrés Ibáñez, Santa Cruz
+85000.0,6.0,3.0,111.0,2018,3.0,111.0,,-17.804,-63.156,Departamento,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+85000.0,3.0,1.0,313.0,2015,2.0,116.0,,-17.75,-62.999,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+85000.0,6.0,2.0,292.0,2020,3.0,120.0,2.0,-17.702,-63.128,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+85000.0,,5.0,414.0,2010,8.0,249.0,,-17.851,-63.202,Casa,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+85000.0,,2.0,,2000,2.0,85.0,,-17.787,-63.176,Departamento,En Venta,Santa Cruz de la Sierra,Centro (Casco Viejo), Andrés Ibáñez, Santa Cruz
+85000.0,15.0,4.0,,1999,3.0,150.0,,-17.792,-63.175,Departamento,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+85000.0,5.0,2.0,,2014,2.0,108.77,,-17.738,-63.181,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+85000.0,5.0,2.0,,1994,2.0,132.8,,-17.787,-63.181,Departamento,En Venta,Santa Cruz de la Sierra,Centro (Casco Viejo), Andrés Ibáñez, Santa Cruz
+85000.0,5.0,3.0,135.0,2005,3.0,135.0,,-17.744,-63.17,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+85000.0,,3.0,410.0,2017,3.0,275.0,,-17.839,-63.254,Casa,En Venta,La guardia,1 Urb. Cerrada Inteligente, Andrés Ibáñez, Santa Cruz
+85000.0,8.0,2.0,450.0,2019,3.0,200.0,,-17.742,-63.08,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+85000.0,7.0,2.0,439.0,2019,3.0,285.0,,-17.742,-63.08,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+85723.0,,2.0,,2024,2.0,77.93,,-17.765,-63.174,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+85900.0,5.0,3.0,160.0,2021,3.0,125.0,2.0,-17.698,-63.181,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+86000.0,,3.0,320.0,2022,3.0,140.0,,-17.675,-63.181,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+86000.0,6.0,2.0,441.36,2011,3.0,188.41,,-17.777,-63.118,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+86290.0,,2.0,,2024,2.0,69.0,,-17.765,-63.194,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+86436.0,,2.0,,2021,2.0,88.2,,-17.789,-63.224,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+86920.0,9.0,2.0,39.0,2022,3.0,106.0,90.0,-17.764,-63.248,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+87000.0,,2.0,300.0,2015,3.0,280.0,,-17.866,-63.155,Casa,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+87000.0,,2.0,,2000,2.0,76.93,,-17.797,-63.174,Departamento,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+87000.0,,2.0,,2016,2.0,74.0,,-17.747,-63.168,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+87000.0,4.0,2.0,300.0,2020,3.0,180.0,,-17.851,-63.261,Casa,En Venta,La guardia,doble via la guardia km 9, Andrés Ibáñez, Santa Cruz
+87000.0,6.0,2.0,286.0,2017,3.0,152.0,,-17.711,-63.139,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+87002.0,,2.0,,2025,2.0,67.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+87002.0,,2.0,,2025,2.0,67.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+87002.0,,2.0,,2025,2.0,67.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+87002.0,,2.0,,2025,2.0,67.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+87002.0,,2.0,,2025,2.0,67.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+87002.0,,2.0,,2025,2.0,67.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+87002.0,,2.0,,2025,2.0,67.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+87002.0,,2.0,,2025,2.0,67.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+87002.0,,2.0,,2025,2.0,67.0,,-17.769,-63.177,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+87002.0,,2.0,,2025,2.0,67.0,,-17.769,-63.177,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+87002.0,,2.0,,2025,2.0,67.0,,-17.769,-63.177,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+87002.0,,2.0,,2025,2.0,67.0,,-17.769,-63.177,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+87002.0,,2.0,,2025,2.0,67.0,,-17.769,-63.177,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+87002.0,,2.0,,2025,2.0,67.0,,-17.769,-63.177,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+87002.0,,2.0,,2025,2.0,67.0,,-17.769,-63.177,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+87002.0,,2.0,,2025,2.0,67.0,,-17.769,-63.177,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+87002.0,,2.0,,2025,2.0,67.0,,-17.769,-63.177,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+87002.0,,2.0,,2025,2.0,67.0,,-17.769,-63.177,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+87002.0,,2.0,,2025,2.0,67.0,,-17.769,-63.177,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+87002.0,,2.0,,2025,2.0,67.0,,-17.769,-63.177,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+87000.0,6.0,3.0,180.0,2011,3.0,120.0,2.0,-17.726,-63.144,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+87500.0,5.0,2.0,180.0,2021,3.0,120.0,,-17.702,-63.146,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+88000.0,7.0,3.0,,2014,3.0,"9,572",,-17.799,-63.215,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+88000.0,,3.0,298.25,2015,5.0,112.03,,20.561,-103.337,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+88000.0,,2.0,305.0,2018,5.0,180.0,2.0,-17.886,-63.298,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+87322.0,,2.0,,2024,2.0,69.0,,-17.765,-63.194,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+88900.0,4.0,2.0,300.0,2023,3.0,"12,563",2.0,-17.808,-63.274,Casa,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+88900.0,4.0,2.0,300.0,2023,3.0,125.63,2.0,-17.808,-63.274,Casa,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+88900.0,4.0,2.0,300.0,2023,3.0,"12,563",2.0,-17.808,-63.274,Casa,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+89000.0,16.0,6.0,487.0,2009,10.0,223.0,3.0,-17.751,-63.117,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+89000.0,12.0,4.0,350.0,2008,6.0,240.0,,-17.788,-63.113,Casa,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+89000.0,,2.0,,2010,3.0,127.0,,-17.82,-63.218,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+89000.0,1.0,2.0,130.0,2014,3.0,130.0,1.0,-17.738,-63.176,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+89402.0,,2.0,,2024,2.0,69.0,,-17.765,-63.194,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+89800.0,,3.0,309.0,2018,3.0,154.0,2.0,-17.711,-63.138,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+89900.0,4.0,2.0,222.0,2006,3.0,256.0,,-17.702,-63.166,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+89900.0,,3.0,160.0,2022,3.0,124.36,,-17.699,-63.183,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+89900.0,,2.0,,2017,3.0,111.6,,-17.804,-63.156,Departamento,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+89991.0,,2.0,,2023,2.0,81.81,,-17.811,-63.273,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+89991.0,,2.0,,2023,2.0,81.81,,-17.811,-63.273,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+89991.0,,2.0,,2023,2.0,81.81,,-17.811,-63.273,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+89991.0,,2.0,,2023,2.0,81.81,,-17.811,-63.273,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+89991.0,,2.0,,2023,2.0,81.81,,-17.811,-63.273,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+90000.0,15.0,2.0,640.0,2010,7.0,200.0,4.0,-17.865,-63.192,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+90000.0,,2.0,,2023,2.0,65.0,,-17.763,-63.179,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+90000.0,,2.0,360.0,1994,3.0,145.0,,-17.871,-63.197,Casa,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+90000.0,7.0,3.0,,2022,3.0,107.83,1.0,-17.777,-63.212,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+90000.0,4.0,2.0,112.5,2013,2.0,112.5,1.0,-17.794,-63.201,Departamento,En Venta,Santa Cruz de la Sierra,Urbari, Andrés Ibáñez, Santa Cruz
+90000.0,,2.0,175.0,1997,3.0,80.0,,-17.782,-63.203,Casa,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+90000.0,8.0,2.0,264.0,2017,3.0,100.0,,-17.696,-63.13,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+90000.0,12.0,3.0,242.0,2007,3.0,194.0,,-17.698,-63.155,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+90000.0,,2.0,473.61,2008,3.0,100.0,,-17.754,-63.083,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+90000.0,,2.0,250.0,2020,3.0,126.0,,-17.848,-63.209,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+90000.0,10.0,3.0,363.66,2009,4.0,170.82,2.0,-17.757,-63.127,Casa,En Venta,Santa Cruz de la Sierra,Noreste, Andrés Ibáñez, Santa Cruz
+90000.0,4.0,1.0,146.0,2017,2.0,54.0,1.0,-17.747,-63.194,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+90000.0,8.0,2.0,225.0,2023,3.0,150.0,2.0,-17.856,-63.148,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+90000.0,,,270.0,2022,,168.0,,-17.78,-63.104,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+90000.0,9.0,3.0,234.0,2021,3.0,170.0,,-17.685,-63.145,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+90600.0,,2.0,,2023,2.0,113.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+91500.0,5.0,2.0,320.62,2010,3.0,231.0,1.0,-17.694,-63.131,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+91615.0,,1.0,,2013,1.0,87.0,,-17.762,-63.194,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+93000.0,1.0,2.0,280.52,2019,3.0,90.0,,-10.767,-66.517,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+93000.0,6.0,1.0,295.0,2005,3.0,120.0,,-17.717,-63.143,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+93000.0,4.0,3.0,,2009,2.0,101.13,1.0,-17.756,-63.198,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+93000.0,6.0,3.0,,2018,3.0,111.6,,-17.804,-63.157,Departamento,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+93000.0,9.0,2.0,200.0,2014,3.0,147.0,,-17.682,-63.146,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+93023.0,,2.0,,2025,2.0,72.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+93023.0,,2.0,,2025,2.0,72.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+93023.0,,2.0,,2025,2.0,72.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+93023.0,,2.0,,2025,2.0,72.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+93023.0,,2.0,,2025,2.0,72.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+93023.0,,2.0,,2025,2.0,72.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+93023.0,,2.0,,2025,2.0,72.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+93023.0,,2.0,,2025,2.0,72.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+93023.0,,2.0,,2025,2.0,72.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+93023.0,,2.0,,2025,2.0,72.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+93023.0,,2.0,,2025,2.0,72.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+93023.0,,2.0,,2025,2.0,72.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+93023.0,,2.0,,2025,2.0,72.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+93023.0,,2.0,,2025,2.0,72.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+93023.0,,2.0,,2025,2.0,72.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+93023.0,,2.0,,2025,2.0,72.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+93656.0,,2.0,,2021,2.0,117.07,,-17.782,-63.186,Departamento,En Venta,Santa Cruz de la Sierra,Centro (Casco Viejo), Andrés Ibáñez, Santa Cruz
+94000.0,12.0,2.0,360.83,2002,8.0,235.68,,-17.814,-63.227,Casa,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+94000.0,,3.0,,2020,2.0,"7,370",,-17.764,-63.2,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+94000.0,14.0,2.0,200.0,2023,3.0,200.0,2.0,-17.857,-63.172,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+94000.0,5.0,2.0,,2012,2.0,124.0,,-17.778,-63.162,Departamento,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+94000.0,6.0,2.0,,2020,2.0,74.0,,-17.762,-63.199,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+94900.0,9.0,2.0,270.7,2012,2.0,118.62,2.0,-17.704,-63.155,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+95000.0,,3.0,,2017,3.0,102.0,,-17.725,-63.166,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+95000.0,2.0,3.0,220.0,2007,3.0,147.0,2.0,-17.699,-63.171,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+95000.0,3.0,3.0,250.08,1994,6.0,216.0,,-17.743,-63.118,Casa,En Venta,Santa Cruz de la Sierra,Noroeste, Andrés Ibáñez, Santa Cruz
+95000.0,9.0,2.0,,2000,3.0,131.0,,-17.775,-63.169,Departamento,En Venta,Santa Cruz de la Sierra,Noreste, Andrés Ibáñez, Santa Cruz
+95000.0,,2.0,,2019,1.0,64.0,,-17.755,-63.198,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+95000.0,6.0,1.0,407.4,2010,3.0,95.0,,-17.835,-63.201,Casa,En Venta,Santa Cruz de la Sierra,Suroeste, Andrés Ibáñez, Santa Cruz
+95000.0,10.0,3.0,360.0,2019,3.0,242.0,,-17.602,-63.141,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+95000.0,11.0,1.0,450.0,2000,4.0,225.0,,-17.847,-63.154,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+95000.0,6.0,3.0,247.68,2022,3.0,175.0,,-17.824,-63.243,Casa,En Venta,Santa Cruz de la Sierra,Suroeste, Andrés Ibáñez, Santa Cruz
+95000.0,,1.0,442.52,2007,4.0,100.0,,-17.789,-63.135,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+95000.0,4.0,2.0,310.0,2000,3.0,80.0,,-17.746,-63.194,Casa,En Venta,Santa Cruz de la Sierra,Noroeste, Andrés Ibáñez, Santa Cruz
+95000.0,8.0,3.0,360.0,2020,6.0,205.0,2.0,-17.842,-63.092,Casa,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+95000.0,7.0,3.0,170.0,2022,3.0,160.0,,-17.723,-63.183,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+95000.0,6.0,2.0,170.0,2022,3.0,160.0,,-17.724,-63.183,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+95000.0,7.0,3.0,170.0,2022,3.0,170.0,,-17.723,-63.183,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+95000.0,6.0,2.0,170.0,2022,3.0,160.0,,-17.724,-63.183,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+95000.0,10.0,3.0,338.0,2015,4.0,159.0,2.0,-17.686,-63.141,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+95000.0,10.0,2.0,171.0,2014,3.0,115.7,2.0,-17.723,-63.182,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+95000.0,9.0,4.0,190.0,2010,5.0,184.0,1.0,-17.836,-63.19,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+95000.0,6.0,1.0,389.66,2008,3.0,102.0,,-17.809,-63.144,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+95000.0,,1.0,,2016,2.0,78.0,,-17.803,-63.116,Duplex,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+95400.0,,2.0,,2023,3.0,106.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+95400.0,,2.0,,2023,3.0,106.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+95400.0,,2.0,,2023,3.0,106.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+95400.0,,2.0,,2023,3.0,106.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+95400.0,,2.0,,2023,3.0,106.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+95400.0,,2.0,,2023,3.0,106.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+96000.0,,2.0,,2021,2.0,70.0,,-17.792,-63.181,Departamento,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+97000.0,,2.0,180.0,2019,3.0,120.0,2.0,-17.692,-63.143,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+97000.0,14.0,2.0,200.0,2023,3.0,200.0,2.0,-17.857,-63.172,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+97000.0,,3.0,124.0,2017,3.0,140.0,2.0,-17.712,-63.146,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+97385.0,,2.0,,2025,2.0,75.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+97385.0,,2.0,,2025,2.0,75.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+97385.0,,2.0,,2025,2.0,75.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+97385.0,,2.0,,2025,2.0,75.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+97385.0,,2.0,,2025,2.0,75.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+97385.0,,2.0,,2025,2.0,75.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+97385.0,,2.0,,2025,2.0,75.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+97385.0,,2.0,,2025,2.0,75.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+97385.0,,2.0,,2025,2.0,75.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+97385.0,,2.0,,2025,2.0,75.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+97385.0,,2.0,,2025,2.0,75.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+97385.0,,2.0,,2025,2.0,75.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+97385.0,,2.0,,2025,2.0,75.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+97385.0,,2.0,,2025,2.0,75.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+97385.0,,2.0,,2025,2.0,75.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+97385.0,,2.0,,2025,2.0,75.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+97385.0,,2.0,,2025,2.0,75.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+97385.0,,2.0,,2025,2.0,75.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+97385.0,,2.0,,2025,2.0,75.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+97385.0,,2.0,,2025,2.0,75.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+97385.0,,2.0,,2025,2.0,75.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+97495.0,,2.0,197.9,2011,3.0,110.0,,-17.718,-63.162,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+98000.0,4.0,1.0,745.0,1999,1.0,745.0,1.0,-17.757,-63.199,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+98000.0,5.0,1.0,644.82,2014,4.0,85.0,6.0,-17.729,-63.115,Casa,En Venta,Santa Cruz de la Sierra,Noreste, Andrés Ibáñez, Santa Cruz
+98000.0,,3.0,250.0,2022,3.0,190.0,,-17.855,-63.219,Casa,En Venta,Santa Cruz de la Sierra,Suroeste, Andrés Ibáñez, Santa Cruz
+98000.0,3.0,2.0,,2018,2.0,95.89,1.0,-17.773,-63.185,Departamento,En Venta,Santa Cruz de la Sierra,Centro (Casco Viejo), Andrés Ibáñez, Santa Cruz
+98000.0,4.0,4.0,165.0,2001,1.0,165.0,,-17.787,-63.182,Departamento,En Venta,Santa Cruz de la Sierra,Centro (Casco Viejo), Andrés Ibáñez, Santa Cruz
+98000.0,6.0,2.0,160.0,2021,3.0,147.0,,-17.811,-63.224,Casa,En Venta,Santa Cruz de la Sierra,Suroeste, Andrés Ibáñez, Santa Cruz
+98192.0,6.0,2.0,,2022,3.0,99.02,,-17.716,-63.187,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+99000.0,8.0,2.0,360.0,2013,5.0,135.74,,-17.802,-63.139,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+99000.0,4.0,2.0,,2017,2.0,"9,441",,-17.793,-63.197,Departamento,En Venta,Santa Cruz de la Sierra,Noroeste, Andrés Ibáñez, Santa Cruz
+99000.0,7.0,3.0,145.0,2022,3.0,148.0,2.0,-17.684,-63.154,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+99000.0,,2.0,300.0,2010,3.0,145.0,,-17.707,-63.169,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+99000.0,,3.0,160.0,2018,4.0,120.0,,-17.699,-63.179,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+99000.0,,3.0,,2020,3.0,108.0,,-17.751,-63.155,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+99000.0,6.0,3.0,310.0,2013,3.0,239.0,,-17.757,-63.09,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+99000.0,5.0,3.0,,2018,3.0,116.79,,-17.738,-63.181,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+99000.0,10.0,3.0,127.0,2010,3.0,127.0,2.0,-17.749,-63.171,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+99000.0,9.0,2.0,225.0,2023,4.0,180.0,2.0,-17.856,-63.148,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+99900.0,5.0,2.0,,2021,2.0,72.1,,-17.718,-63.186,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+99900.0,,2.0,450.0,2000,3.0,325.0,,-17.865,-63.227,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+100000.0,7.0,2.0,220.0,2012,3.0,93.0,,-17.682,-63.148,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+100000.0,5.0,3.0,,2013,2.0,96.62,,-17.788,-63.176,Departamento,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+100000.0,,3.0,240.0,2021,2.0,168.0,,-17.721,-63.184,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+100000.0,4.0,3.0,720.0,2002,2.0,116.0,,-17.855,-63.102,Casa,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+100000.0,12.0,3.0,234.82,2019,5.0,233.65,,-17.848,-63.173,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+100000.0,10.0,2.0,363.0,1994,4.0,98.0,,-17.833,-63.11,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+100000.0,5.0,3.0,,2013,2.0,105.0,,-17.786,-63.212,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+100000.0,6.0,2.0,128.0,2007,3.0,128.0,,-17.761,-63.186,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+100000.0,10.0,2.0,242.0,2012,3.0,"12,125",1.0,-17.683,-63.145,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+100000.0,6.0,2.0,262.5,2016,3.0,109.0,,-17.694,-63.13,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+100000.0,9.0,3.0,240.0,2023,3.0,175.0,2.0,-17.684,-63.156,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+100720.0,,2.0,,2023,2.0,125.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+100760.0,,2.0,,2021,2.0,86.79,,-17.776,-63.161,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+103000.0,6.0,2.0,110.0,2021,2.0,846.0,1.0,-17.756,-63.166,Departamento,En Venta,Santa Cruz de la Sierra,NorEast, Andrés Ibáñez, Santa Cruz
+103000.0,4.0,1.0,,2018,1.0,65.0,,-17.769,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+103000.0,,3.0,146.54,2022,3.0,193.97,1.0,-17.809,-63.136,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+103000.0,,3.0,145.77,2022,3.0,192.94,,-17.809,-63.136,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+104412.0,,2.0,,2023,1.0,94.92,,-17.772,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+104412.0,,2.0,,2023,1.0,94.92,,-17.772,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+105000.0,,1.0,,2010,1.0,69.4,,-17.757,-63.199,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+105000.0,,1.0,375.0,2017,3.0,70.0,4.0,-17.734,-63.135,Casa,En Venta,Santa Cruz de la Sierra,Noreste, Andrés Ibáñez, Santa Cruz
+105000.0,7.0,3.0,,2015,3.0,119.0,,-17.778,-63.162,Departamento,En Venta,Santa Cruz de la Sierra,Noreste, Andrés Ibáñez, Santa Cruz
+105000.0,,1.0,466.0,2000,2.0,100.0,,-17.792,-63.142,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+105000.0,,2.0,350.0,2018,3.0,264.0,,-17.852,-63.111,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+105000.0,5.0,3.0,195.0,2023,3.0,179.0,2.0,-17.677,-63.18,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+105000.0,6.0,3.0,300.0,2002,3.0,102.0,,-17.716,-63.171,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+105000.0,6.0,1.0,425.76,2010,3.0,180.0,,-17.841,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+105000.0,8.0,3.0,297.0,2010,4.0,112.0,,-17.85,-63.171,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+105000.0,7.0,2.0,134.0,2019,3.0,90.0,,-17.819,-63.219,Departamento,En Venta,Santa Cruz de la Sierra,Suroeste, Andrés Ibáñez, Santa Cruz
+105000.0,6.0,2.0,310.0,2010,3.0,244.0,,-17.757,-63.09,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+105000.0,7.0,3.0,,2011,4.0,150.0,2.0,-17.756,-63.194,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+105500.0,,3.0,170.0,2022,4.0,156.0,,-17.702,-63.176,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+106000.0,,2.0,,2023,2.0,73.04,,-17.762,-63.179,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+106000.0,,2.0,,2025,2.0,84.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+106000.0,,2.0,,2025,2.0,84.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+106000.0,,2.0,,2025,2.0,84.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+106000.0,,2.0,,2025,2.0,84.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+106000.0,,2.0,,2025,2.0,84.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+106000.0,,2.0,,2025,2.0,84.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+106000.0,,2.0,,2025,2.0,84.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+106000.0,,2.0,,2025,2.0,84.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+106000.0,,2.0,,2025,2.0,84.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+106000.0,,2.0,,2025,2.0,84.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+106000.0,,2.0,,2025,2.0,84.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+106000.0,,2.0,,2025,2.0,84.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+106000.0,,2.0,,2025,2.0,84.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+106000.0,,2.0,,2025,2.0,84.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+106000.0,,2.0,,2025,2.0,84.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+106000.0,,2.0,,2025,2.0,84.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+107000.0,13.0,3.0,174.81,2017,3.0,160.0,,-17.815,-63.233,Casa,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+108000.0,9.0,2.0,"20,711",2022,3.0,260.0,,-17.86,-63.172,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+108000.0,6.0,3.0,184.0,2016,3.0,90.0,,-17.679,-63.145,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+108000.0,,2.0,489.45,1999,3.0,208.07,,-17.79,-63.095,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+109160.0,,2.0,,2023,3.0,136.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+109900.0,5.0,2.0,177.62,2022,3.0,190.76,2.0,-17.684,-63.153,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+110000.0,5.0,2.0,180.0,2020,3.0,150.0,,-0.001,0.001,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+110000.0,1.0,2.0,360.0,2015,3.0,122.05,,-17.746,-63.146,Casa,En Venta,Santa Cruz de la Sierra,Noreste, Andrés Ibáñez, Santa Cruz
+110000.0,,3.0,"48,570",2011,6.0,"2,734",,-17.801,-63.127,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+110000.0,,1.0,307.0,2018,3.0,150.0,,-17.717,-63.155,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+110000.0,,3.0,229.5,2000,4.0,185.0,,-17.782,-63.213,Casa,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+110000.0,,3.0,143.0,1994,4.0,126.0,,-17.783,-63.186,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Centro (Casco Viejo), Andrés Ibáñez, Santa Cruz
+110000.0,,1.0,407.32,2000,3.0,71.0,,-17.728,-63.145,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+110000.0,5.0,2.0,,2014,3.0,142.45,,-17.735,-63.171,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+110000.0,,3.0,298.0,2022,3.0,298.0,,-17.729,-63.128,Casa,En Venta,Santa Cruz de la Sierra,Noreste, Andrés Ibáñez, Santa Cruz
+110000.0,8.0,4.0,220.0,2020,5.0,145.0,,-17.682,-63.146,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+110000.0,5.0,1.0,105.0,2000,4.0,80.0,1.0,-17.781,-63.201,Casa,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+110000.0,15.0,3.0,360.0,2010,5.0,333.0,2.0,-17.758,-63.073,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+110000.0,2.0,3.0,662.0,2012,3.0,180.0,4.0,-17.731,-63.093,Casa,En Venta,Santa Cruz de la Sierra,Noreste, Andrés Ibáñez, Santa Cruz
+110000.0,,2.0,,2010,3.0,106.0,,-17.765,-63.183,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+110000.0,,2.0,,2022,2.0,73.0,,-17.763,-63.18,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+110000.0,6.0,2.0,267.0,2018,3.0,139.0,,-17.741,-63.151,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+110000.0,8.0,4.0,,2014,3.0,148.0,,-17.738,-63.181,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+110000.0,,3.0,,2008,2.0,117.0,,-17.772,-63.186,Departamento,En Venta,Santa Cruz de la Sierra,Noroeste, Andrés Ibáñez, Santa Cruz
+110000.0,,3.0,150.0,2015,3.0,168.0,,-17.716,-63.169,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+110000.0,,2.0,184.0,2000,2.0,184.0,,-17.811,-63.176,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+112000.0,,5.0,360.0,2010,5.0,236.0,3.0,-17.844,-63.188,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+112000.0,12.0,4.0,484.0,2009,6.0,482.0,,-17.883,-62.967,Casa,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+112000.0,,2.0,,2022,2.0,80.0,,-17.771,-63.195,Departamento,En Venta,Santa Cruz de la Sierra,Noroeste, Andrés Ibáñez, Santa Cruz
+112000.0,6.0,3.0,212.0,2016,3.0,136.0,,-17.675,-63.142,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+112000.0,7.0,3.0,307.0,2017,4.0,152.0,,-17.857,-63.199,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+112000.0,6.0,3.0,126.0,2010,3.0,126.0,,-17.732,-63.17,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+112500.0,12.0,3.0,168.9,2021,3.0,185.0,,-17.839,-63.244,Casa,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+113000.0,6.0,3.0,196.0,2022,3.0,163.0,2.0,-17.708,-63.144,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+113000.0,,2.0,,2020,2.0,69.0,1.0,-17.76,-63.197,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+113000.0,4.0,2.0,82.0,2015,2.0,82.0,,-17.771,-63.194,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+113030.0,,2.0,,2025,3.0,89.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+113904.0,,2.0,,2025,3.0,90.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+113904.0,,2.0,,2025,3.0,90.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+113904.0,,2.0,,2025,3.0,90.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+113904.0,,2.0,,2025,3.0,90.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+113904.0,,2.0,,2025,3.0,90.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+113904.0,,2.0,,2025,3.0,90.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+113904.0,,2.0,,2025,3.0,90.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+113904.0,,2.0,,2025,3.0,90.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+113904.0,,2.0,,2025,3.0,90.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+113904.0,,2.0,,2025,3.0,90.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+113904.0,,2.0,,2025,3.0,90.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+113904.0,,2.0,,2025,3.0,90.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+114300.0,,5.0,185.0,2022,4.0,169.0,,-17.702,-63.176,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+114900.0,11.0,3.0,240.0,2010,5.0,308.59,2.0,-17.852,-63.187,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+115000.0,,3.0,250.0,1995,5.0,166.0,1.0,-17.753,-63.161,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+115000.0,,2.0,,2010,3.0,166.0,,-17.791,-63.179,Departamento,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+115000.0,,4.0,245.86,2016,3.0,179.0,,-17.843,-63.179,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+115000.0,9.0,2.0,"19,628",2017,3.0,148.0,2.0,-17.715,-63.142,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+115000.0,9.0,3.0,264.0,2014,3.0,160.0,2.0,-17.681,-63.147,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+115000.0,5.0,3.0,,1993,3.0,127.0,,-17.761,-63.184,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+115000.0,,1.0,350.0,1994,4.0,154.0,,-17.742,-63.153,Casa,En Venta,Santa Cruz de la Sierra,, Andrés Ibáñez, Santa Cruz
+115000.0,4.0,2.0,,2015,2.0,91.0,1.0,-17.809,-63.209,Departamento,En Venta,Santa Cruz de la Sierra,Las palmas, Andrés Ibáñez, Santa Cruz
+115000.0,,3.0,,2011,3.0,138.0,,-17.785,-63.173,Departamento,En Venta,Santa Cruz de la Sierra,Centro (Casco Viejo), Andrés Ibáñez, Santa Cruz
+115000.0,7.0,3.0,224.62,2021,4.0,152.14,,-17.839,-63.176,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+115000.0,8.0,3.0,180.0,2023,4.0,161.0,,-17.847,-63.201,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+115000.0,7.0,3.0,180.0,2023,4.0,160.0,,-17.847,-63.201,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+115000.0,,3.0,,2017,3.0,78.0,1.0,-17.766,-63.196,Duplex,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+115000.0,5.0,2.0,330.0,2022,3.0,84.0,2.0,-17.811,-63.177,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+115000.0,9.0,3.0,196.0,2022,3.0,150.0,1.0,-17.715,-63.142,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+115000.0,,2.0,,2019,2.0,89.0,,-17.763,-63.194,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+115000.0,7.0,2.0,,2017,3.0,108.8,2.0,-17.767,-63.165,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+115000.0,,3.0,,2011,2.0,119.82,,-17.772,-63.185,Departamento,En Venta,Santa Cruz de la Sierra,Noroeste, Andrés Ibáñez, Santa Cruz
+115000.0,9.0,3.0,208.89,2017,3.0,160.0,2.0,-17.685,-63.168,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+116000.0,,2.0,300.0,2005,8.0,118.0,,-17.834,-63.125,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+116500.0,12.0,3.0,170.31,2021,3.0,185.0,,-17.837,-63.245,Casa,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+117000.0,10.0,2.0,360.0,2015,3.0,170.0,2.0,-17.703,-63.187,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+117000.0,,2.0,394.0,1997,3.0,184.0,,-17.843,-63.185,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+118000.0,,1.0,394.0,2008,3.0,100.0,,-17.711,-63.144,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+118000.0,6.0,3.0,257.0,2016,3.0,147.0,,-17.679,-63.145,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+118000.0,8.0,5.0,166.0,2016,5.0,201.0,,-17.703,-63.174,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+118000.0,2.0,4.0,360.0,2015,5.0,320.0,,-17.842,-63.232,Casa,En Venta,Santa Cruz de la Sierra,Suroeste, Andrés Ibáñez, Santa Cruz
+118000.0,,3.0,387.0,2000,3.0,90.0,4.0,-17.822,-63.182,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+119000.0,8.0,4.0,154.96,2000,4.0,186.0,,-17.74,-63.191,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+119000.0,7.0,3.0,300.0,2020,3.0,220.0,,-17.706,-63.186,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+119000.0,5.0,2.0,142.0,2008,3.0,142.0,,-17.813,-63.201,Departamento,En Venta,Santa Cruz de la Sierra,Suroeste, Andrés Ibáñez, Santa Cruz
+119000.0,5.0,2.0,,2008,3.0,"14,780",,-17.813,-63.201,Departamento,En Venta,Santa Cruz de la Sierra,Suroeste, Andrés Ibáñez, Santa Cruz
+119000.0,,3.0,434.0,2022,3.0,182.0,,-17.848,-63.261,Casa,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+119000.0,9.0,3.0,,2018,3.0,144.0,,-17.779,-63.169,Departamento,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+119104.0,4.0,4.0,,2019,3.0,148.88,,-17.795,-63.2,Departamento,En Venta,Santa Cruz de la Sierra,Urbari, Andrés Ibáñez, Santa Cruz
+119336.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+119336.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+119500.0,12.0,3.0,171.71,2021,3.0,185.0,,-17.837,-63.245,Casa,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+119560.0,6.0,2.0,,2022,2.0,85.4,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+119600.0,6.0,3.0,360.0,2015,3.0,292.5,,-17.861,-63.148,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+120000.0,12.0,3.0,184.56,2016,3.0,171.2,,17.712,-63.17,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,10.0,3.0,325.02,2016,3.0,147.0,,-17.681,-63.146,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,,2.0,224.0,2021,3.0,116.0,,-17.809,-63.271,Casa,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+120000.0,,3.0,227.0,2022,3.0,188.0,,-17.762,-63.105,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+120000.0,12.0,3.0,243.23,2017,4.0,261.91,2.0,-17.785,-63.049,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+120000.0,,5.0,338.0,2019,7.0,409.0,,-17.841,-63.112,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+120000.0,,3.0,384.0,2015,4.0,200.0,,-17.841,-63.205,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+120000.0,,2.0,352.0,1990,4.0,120.0,,-17.818,-63.169,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+120000.0,4.0,2.0,390.0,2000,3.0,380.0,,-17.809,-63.105,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+120000.0,8.0,1.0,346.03,2012,6.0,180.0,3.0,-17.736,-63.177,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,,3.0,,2016,3.0,140.0,,-17.747,-63.162,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,6.0,2.0,,2023,2.0,80.0,,-17.77,-63.198,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+120000.0,,2.0,974.95,2015,1.0,126.75,,-17.721,-63.139,Casa,En Venta,Santa Cruz de la Sierra,Noreste, Andrés Ibáñez, Santa Cruz
+120000.0,6.0,2.0,76.0,2023,2.0,76.0,,-17.764,-63.174,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,8.0,2.0,264.0,2013,6.0,110.0,2.0,-17.748,-63.186,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,6.0,3.0,310.0,2011,3.0,166.0,2.0,-17.703,-63.154,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,6.0,3.0,180.0,2023,3.0,150.0,2.0,-17.717,-63.153,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,3.0,291.5,2023,4.0,320.0,1.0,-17.856,-63.208,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,2.0,370.0,2013,9.0,230.0,4.0,-17.785,-63.112,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,ESTE, Andrés Ibáñez, Santa Cruz
+120000.0,8.0,3.0,213.05,2010,3.0,136.0,,-17.681,-63.154,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,,2.0,262.5,2017,3.0,97.33,,-17.695,-63.134,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+123000.0,6.0,3.0,245.0,2011,4.0,146.0,,-17.762,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+122604.0,,2.0,,2023,2.0,90.15,,-17.762,-63.199,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+125000.0,,4.0,179.86,2013,4.0,208.32,2.0,-17.765,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,12.0,3.0,280.0,2019,4.0,189.0,,-17.847,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,3.0,126.0,2021,3.0,126.5,2.0,-17.745,-63.233,Casa,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,180.0,2021,3.0,200.0,,-17.853,-63.192,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,171.0,2015,3.0,175.0,,-17.709,-63.172,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125000.0,16.0,3.0,360.0,2011,7.0,300.0,3.0,-17.813,-63.092,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,9.0,3.0,193.0,2011,3.0,165.0,2.0,-17.839,-63.185,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125176.0,4.0,4.0,,2019,3.0,156.47,,-17.795,-63.2,Departamento,En Venta,Santa Cruz de la Sierra,Urbari, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+124900.0,10.0,2.0,,2022,3.0,182.47,,-17.831,-63.178,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127000.0,,3.0,240.0,2000,4.0,220.0,,-17.889,-63.29,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127500.0,6.0,3.0,162.94,2022,3.0,215.67,1.0,-17.809,-63.136,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,3.0,291.5,2023,4.0,320.0,1.0,-17.856,-63.208,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,2.0,370.0,2013,9.0,230.0,4.0,-17.785,-63.112,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,ESTE, Andrés Ibáñez, Santa Cruz
+120000.0,8.0,3.0,213.05,2010,3.0,136.0,,-17.681,-63.154,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,,2.0,262.5,2017,3.0,97.33,,-17.695,-63.134,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+123000.0,6.0,3.0,245.0,2011,4.0,146.0,,-17.762,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+122604.0,,2.0,,2023,2.0,90.15,,-17.762,-63.199,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+125000.0,,4.0,179.86,2013,4.0,208.32,2.0,-17.765,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,12.0,3.0,280.0,2019,4.0,189.0,,-17.847,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,3.0,126.0,2021,3.0,126.5,2.0,-17.745,-63.233,Casa,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,180.0,2021,3.0,200.0,,-17.853,-63.192,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,171.0,2015,3.0,175.0,,-17.709,-63.172,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125000.0,16.0,3.0,360.0,2011,7.0,300.0,3.0,-17.813,-63.092,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,9.0,3.0,193.0,2011,3.0,165.0,2.0,-17.839,-63.185,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125176.0,4.0,4.0,,2019,3.0,156.47,,-17.795,-63.2,Departamento,En Venta,Santa Cruz de la Sierra,Urbari, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+124900.0,10.0,2.0,,2022,3.0,182.47,,-17.831,-63.178,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127000.0,,3.0,240.0,2000,4.0,220.0,,-17.889,-63.29,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127500.0,6.0,3.0,162.94,2022,3.0,215.67,1.0,-17.809,-63.136,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,3.0,291.5,2023,4.0,320.0,1.0,-17.856,-63.208,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,2.0,370.0,2013,9.0,230.0,4.0,-17.785,-63.112,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,ESTE, Andrés Ibáñez, Santa Cruz
+120000.0,8.0,3.0,213.05,2010,3.0,136.0,,-17.681,-63.154,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,,2.0,262.5,2017,3.0,97.33,,-17.695,-63.134,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+123000.0,6.0,3.0,245.0,2011,4.0,146.0,,-17.762,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+122604.0,,2.0,,2023,2.0,90.15,,-17.762,-63.199,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+125000.0,,4.0,179.86,2013,4.0,208.32,2.0,-17.765,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,12.0,3.0,280.0,2019,4.0,189.0,,-17.847,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,3.0,126.0,2021,3.0,126.5,2.0,-17.745,-63.233,Casa,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,180.0,2021,3.0,200.0,,-17.853,-63.192,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,171.0,2015,3.0,175.0,,-17.709,-63.172,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125000.0,16.0,3.0,360.0,2011,7.0,300.0,3.0,-17.813,-63.092,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,9.0,3.0,193.0,2011,3.0,165.0,2.0,-17.839,-63.185,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125176.0,4.0,4.0,,2019,3.0,156.47,,-17.795,-63.2,Departamento,En Venta,Santa Cruz de la Sierra,Urbari, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+124900.0,10.0,2.0,,2022,3.0,182.47,,-17.831,-63.178,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127000.0,,3.0,240.0,2000,4.0,220.0,,-17.889,-63.29,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127500.0,6.0,3.0,162.94,2022,3.0,215.67,1.0,-17.809,-63.136,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,3.0,291.5,2023,4.0,320.0,1.0,-17.856,-63.208,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,2.0,370.0,2013,9.0,230.0,4.0,-17.785,-63.112,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,ESTE, Andrés Ibáñez, Santa Cruz
+120000.0,8.0,3.0,213.05,2010,3.0,136.0,,-17.681,-63.154,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,,2.0,262.5,2017,3.0,97.33,,-17.695,-63.134,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+123000.0,6.0,3.0,245.0,2011,4.0,146.0,,-17.762,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+122604.0,,2.0,,2023,2.0,90.15,,-17.762,-63.199,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+125000.0,,4.0,179.86,2013,4.0,208.32,2.0,-17.765,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,12.0,3.0,280.0,2019,4.0,189.0,,-17.847,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,3.0,126.0,2021,3.0,126.5,2.0,-17.745,-63.233,Casa,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,180.0,2021,3.0,200.0,,-17.853,-63.192,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,171.0,2015,3.0,175.0,,-17.709,-63.172,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125000.0,16.0,3.0,360.0,2011,7.0,300.0,3.0,-17.813,-63.092,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,9.0,3.0,193.0,2011,3.0,165.0,2.0,-17.839,-63.185,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125176.0,4.0,4.0,,2019,3.0,156.47,,-17.795,-63.2,Departamento,En Venta,Santa Cruz de la Sierra,Urbari, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+124900.0,10.0,2.0,,2022,3.0,182.47,,-17.831,-63.178,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127000.0,,3.0,240.0,2000,4.0,220.0,,-17.889,-63.29,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127500.0,6.0,3.0,162.94,2022,3.0,215.67,1.0,-17.809,-63.136,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,3.0,291.5,2023,4.0,320.0,1.0,-17.856,-63.208,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,2.0,370.0,2013,9.0,230.0,4.0,-17.785,-63.112,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,ESTE, Andrés Ibáñez, Santa Cruz
+120000.0,8.0,3.0,213.05,2010,3.0,136.0,,-17.681,-63.154,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,,2.0,262.5,2017,3.0,97.33,,-17.695,-63.134,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+123000.0,6.0,3.0,245.0,2011,4.0,146.0,,-17.762,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+122604.0,,2.0,,2023,2.0,90.15,,-17.762,-63.199,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+125000.0,,4.0,179.86,2013,4.0,208.32,2.0,-17.765,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,12.0,3.0,280.0,2019,4.0,189.0,,-17.847,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,3.0,126.0,2021,3.0,126.5,2.0,-17.745,-63.233,Casa,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,180.0,2021,3.0,200.0,,-17.853,-63.192,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,171.0,2015,3.0,175.0,,-17.709,-63.172,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125000.0,16.0,3.0,360.0,2011,7.0,300.0,3.0,-17.813,-63.092,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,9.0,3.0,193.0,2011,3.0,165.0,2.0,-17.839,-63.185,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125176.0,4.0,4.0,,2019,3.0,156.47,,-17.795,-63.2,Departamento,En Venta,Santa Cruz de la Sierra,Urbari, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+124900.0,10.0,2.0,,2022,3.0,182.47,,-17.831,-63.178,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127000.0,,3.0,240.0,2000,4.0,220.0,,-17.889,-63.29,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127500.0,6.0,3.0,162.94,2022,3.0,215.67,1.0,-17.809,-63.136,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,3.0,291.5,2023,4.0,320.0,1.0,-17.856,-63.208,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,2.0,370.0,2013,9.0,230.0,4.0,-17.785,-63.112,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,ESTE, Andrés Ibáñez, Santa Cruz
+120000.0,8.0,3.0,213.05,2010,3.0,136.0,,-17.681,-63.154,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,,2.0,262.5,2017,3.0,97.33,,-17.695,-63.134,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+123000.0,6.0,3.0,245.0,2011,4.0,146.0,,-17.762,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+122604.0,,2.0,,2023,2.0,90.15,,-17.762,-63.199,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+125000.0,,4.0,179.86,2013,4.0,208.32,2.0,-17.765,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,12.0,3.0,280.0,2019,4.0,189.0,,-17.847,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,3.0,126.0,2021,3.0,126.5,2.0,-17.745,-63.233,Casa,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,180.0,2021,3.0,200.0,,-17.853,-63.192,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,171.0,2015,3.0,175.0,,-17.709,-63.172,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125000.0,16.0,3.0,360.0,2011,7.0,300.0,3.0,-17.813,-63.092,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,9.0,3.0,193.0,2011,3.0,165.0,2.0,-17.839,-63.185,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125176.0,4.0,4.0,,2019,3.0,156.47,,-17.795,-63.2,Departamento,En Venta,Santa Cruz de la Sierra,Urbari, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+124900.0,10.0,2.0,,2022,3.0,182.47,,-17.831,-63.178,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127000.0,,3.0,240.0,2000,4.0,220.0,,-17.889,-63.29,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127500.0,6.0,3.0,162.94,2022,3.0,215.67,1.0,-17.809,-63.136,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,3.0,291.5,2023,4.0,320.0,1.0,-17.856,-63.208,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,2.0,370.0,2013,9.0,230.0,4.0,-17.785,-63.112,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,ESTE, Andrés Ibáñez, Santa Cruz
+120000.0,8.0,3.0,213.05,2010,3.0,136.0,,-17.681,-63.154,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,,2.0,262.5,2017,3.0,97.33,,-17.695,-63.134,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+123000.0,6.0,3.0,245.0,2011,4.0,146.0,,-17.762,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+122604.0,,2.0,,2023,2.0,90.15,,-17.762,-63.199,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+125000.0,,4.0,179.86,2013,4.0,208.32,2.0,-17.765,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,12.0,3.0,280.0,2019,4.0,189.0,,-17.847,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,3.0,126.0,2021,3.0,126.5,2.0,-17.745,-63.233,Casa,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,180.0,2021,3.0,200.0,,-17.853,-63.192,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,171.0,2015,3.0,175.0,,-17.709,-63.172,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125000.0,16.0,3.0,360.0,2011,7.0,300.0,3.0,-17.813,-63.092,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,9.0,3.0,193.0,2011,3.0,165.0,2.0,-17.839,-63.185,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125176.0,4.0,4.0,,2019,3.0,156.47,,-17.795,-63.2,Departamento,En Venta,Santa Cruz de la Sierra,Urbari, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+124900.0,10.0,2.0,,2022,3.0,182.47,,-17.831,-63.178,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127000.0,,3.0,240.0,2000,4.0,220.0,,-17.889,-63.29,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127500.0,6.0,3.0,162.94,2022,3.0,215.67,1.0,-17.809,-63.136,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,3.0,291.5,2023,4.0,320.0,1.0,-17.856,-63.208,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,2.0,370.0,2013,9.0,230.0,4.0,-17.785,-63.112,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,ESTE, Andrés Ibáñez, Santa Cruz
+120000.0,8.0,3.0,213.05,2010,3.0,136.0,,-17.681,-63.154,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,,2.0,262.5,2017,3.0,97.33,,-17.695,-63.134,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+123000.0,6.0,3.0,245.0,2011,4.0,146.0,,-17.762,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+122604.0,,2.0,,2023,2.0,90.15,,-17.762,-63.199,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+125000.0,,4.0,179.86,2013,4.0,208.32,2.0,-17.765,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,12.0,3.0,280.0,2019,4.0,189.0,,-17.847,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,3.0,126.0,2021,3.0,126.5,2.0,-17.745,-63.233,Casa,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,180.0,2021,3.0,200.0,,-17.853,-63.192,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,171.0,2015,3.0,175.0,,-17.709,-63.172,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125000.0,16.0,3.0,360.0,2011,7.0,300.0,3.0,-17.813,-63.092,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,9.0,3.0,193.0,2011,3.0,165.0,2.0,-17.839,-63.185,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125176.0,4.0,4.0,,2019,3.0,156.47,,-17.795,-63.2,Departamento,En Venta,Santa Cruz de la Sierra,Urbari, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+124900.0,10.0,2.0,,2022,3.0,182.47,,-17.831,-63.178,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127000.0,,3.0,240.0,2000,4.0,220.0,,-17.889,-63.29,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127500.0,6.0,3.0,162.94,2022,3.0,215.67,1.0,-17.809,-63.136,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,3.0,291.5,2023,4.0,320.0,1.0,-17.856,-63.208,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,2.0,370.0,2013,9.0,230.0,4.0,-17.785,-63.112,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,ESTE, Andrés Ibáñez, Santa Cruz
+120000.0,8.0,3.0,213.05,2010,3.0,136.0,,-17.681,-63.154,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,,2.0,262.5,2017,3.0,97.33,,-17.695,-63.134,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+123000.0,6.0,3.0,245.0,2011,4.0,146.0,,-17.762,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+122604.0,,2.0,,2023,2.0,90.15,,-17.762,-63.199,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+125000.0,,4.0,179.86,2013,4.0,208.32,2.0,-17.765,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,12.0,3.0,280.0,2019,4.0,189.0,,-17.847,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,3.0,126.0,2021,3.0,126.5,2.0,-17.745,-63.233,Casa,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,180.0,2021,3.0,200.0,,-17.853,-63.192,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,171.0,2015,3.0,175.0,,-17.709,-63.172,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125000.0,16.0,3.0,360.0,2011,7.0,300.0,3.0,-17.813,-63.092,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,9.0,3.0,193.0,2011,3.0,165.0,2.0,-17.839,-63.185,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125176.0,4.0,4.0,,2019,3.0,156.47,,-17.795,-63.2,Departamento,En Venta,Santa Cruz de la Sierra,Urbari, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+124900.0,10.0,2.0,,2022,3.0,182.47,,-17.831,-63.178,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127000.0,,3.0,240.0,2000,4.0,220.0,,-17.889,-63.29,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127500.0,6.0,3.0,162.94,2022,3.0,215.67,1.0,-17.809,-63.136,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,3.0,291.5,2023,4.0,320.0,1.0,-17.856,-63.208,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,2.0,370.0,2013,9.0,230.0,4.0,-17.785,-63.112,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,ESTE, Andrés Ibáñez, Santa Cruz
+120000.0,8.0,3.0,213.05,2010,3.0,136.0,,-17.681,-63.154,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,,2.0,262.5,2017,3.0,97.33,,-17.695,-63.134,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+123000.0,6.0,3.0,245.0,2011,4.0,146.0,,-17.762,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+122604.0,,2.0,,2023,2.0,90.15,,-17.762,-63.199,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+125000.0,,4.0,179.86,2013,4.0,208.32,2.0,-17.765,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,12.0,3.0,280.0,2019,4.0,189.0,,-17.847,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,3.0,126.0,2021,3.0,126.5,2.0,-17.745,-63.233,Casa,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,180.0,2021,3.0,200.0,,-17.853,-63.192,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,171.0,2015,3.0,175.0,,-17.709,-63.172,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125000.0,16.0,3.0,360.0,2011,7.0,300.0,3.0,-17.813,-63.092,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,9.0,3.0,193.0,2011,3.0,165.0,2.0,-17.839,-63.185,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125176.0,4.0,4.0,,2019,3.0,156.47,,-17.795,-63.2,Departamento,En Venta,Santa Cruz de la Sierra,Urbari, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+124900.0,10.0,2.0,,2022,3.0,182.47,,-17.831,-63.178,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127000.0,,3.0,240.0,2000,4.0,220.0,,-17.889,-63.29,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127500.0,6.0,3.0,162.94,2022,3.0,215.67,1.0,-17.809,-63.136,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,3.0,291.5,2023,4.0,320.0,1.0,-17.856,-63.208,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,2.0,370.0,2013,9.0,230.0,4.0,-17.785,-63.112,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,ESTE, Andrés Ibáñez, Santa Cruz
+120000.0,8.0,3.0,213.05,2010,3.0,136.0,,-17.681,-63.154,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,,2.0,262.5,2017,3.0,97.33,,-17.695,-63.134,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+123000.0,6.0,3.0,245.0,2011,4.0,146.0,,-17.762,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+122604.0,,2.0,,2023,2.0,90.15,,-17.762,-63.199,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+125000.0,,4.0,179.86,2013,4.0,208.32,2.0,-17.765,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,12.0,3.0,280.0,2019,4.0,189.0,,-17.847,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,3.0,126.0,2021,3.0,126.5,2.0,-17.745,-63.233,Casa,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,180.0,2021,3.0,200.0,,-17.853,-63.192,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,171.0,2015,3.0,175.0,,-17.709,-63.172,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125000.0,16.0,3.0,360.0,2011,7.0,300.0,3.0,-17.813,-63.092,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,9.0,3.0,193.0,2011,3.0,165.0,2.0,-17.839,-63.185,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125176.0,4.0,4.0,,2019,3.0,156.47,,-17.795,-63.2,Departamento,En Venta,Santa Cruz de la Sierra,Urbari, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+124900.0,10.0,2.0,,2022,3.0,182.47,,-17.831,-63.178,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127000.0,,3.0,240.0,2000,4.0,220.0,,-17.889,-63.29,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127500.0,6.0,3.0,162.94,2022,3.0,215.67,1.0,-17.809,-63.136,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,3.0,291.5,2023,4.0,320.0,1.0,-17.856,-63.208,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,2.0,370.0,2013,9.0,230.0,4.0,-17.785,-63.112,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,ESTE, Andrés Ibáñez, Santa Cruz
+120000.0,8.0,3.0,213.05,2010,3.0,136.0,,-17.681,-63.154,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,,2.0,262.5,2017,3.0,97.33,,-17.695,-63.134,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+123000.0,6.0,3.0,245.0,2011,4.0,146.0,,-17.762,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+122604.0,,2.0,,2023,2.0,90.15,,-17.762,-63.199,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+125000.0,,4.0,179.86,2013,4.0,208.32,2.0,-17.765,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,12.0,3.0,280.0,2019,4.0,189.0,,-17.847,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,3.0,126.0,2021,3.0,126.5,2.0,-17.745,-63.233,Casa,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,180.0,2021,3.0,200.0,,-17.853,-63.192,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,171.0,2015,3.0,175.0,,-17.709,-63.172,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125000.0,16.0,3.0,360.0,2011,7.0,300.0,3.0,-17.813,-63.092,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,9.0,3.0,193.0,2011,3.0,165.0,2.0,-17.839,-63.185,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125176.0,4.0,4.0,,2019,3.0,156.47,,-17.795,-63.2,Departamento,En Venta,Santa Cruz de la Sierra,Urbari, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+124900.0,10.0,2.0,,2022,3.0,182.47,,-17.831,-63.178,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127000.0,,3.0,240.0,2000,4.0,220.0,,-17.889,-63.29,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127500.0,6.0,3.0,162.94,2022,3.0,215.67,1.0,-17.809,-63.136,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,3.0,291.5,2023,4.0,320.0,1.0,-17.856,-63.208,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,2.0,370.0,2013,9.0,230.0,4.0,-17.785,-63.112,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,ESTE, Andrés Ibáñez, Santa Cruz
+120000.0,8.0,3.0,213.05,2010,3.0,136.0,,-17.681,-63.154,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,,2.0,262.5,2017,3.0,97.33,,-17.695,-63.134,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+123000.0,6.0,3.0,245.0,2011,4.0,146.0,,-17.762,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+122604.0,,2.0,,2023,2.0,90.15,,-17.762,-63.199,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+125000.0,,4.0,179.86,2013,4.0,208.32,2.0,-17.765,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,12.0,3.0,280.0,2019,4.0,189.0,,-17.847,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,3.0,126.0,2021,3.0,126.5,2.0,-17.745,-63.233,Casa,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,180.0,2021,3.0,200.0,,-17.853,-63.192,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,171.0,2015,3.0,175.0,,-17.709,-63.172,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125000.0,16.0,3.0,360.0,2011,7.0,300.0,3.0,-17.813,-63.092,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,9.0,3.0,193.0,2011,3.0,165.0,2.0,-17.839,-63.185,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125176.0,4.0,4.0,,2019,3.0,156.47,,-17.795,-63.2,Departamento,En Venta,Santa Cruz de la Sierra,Urbari, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+124900.0,10.0,2.0,,2022,3.0,182.47,,-17.831,-63.178,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127000.0,,3.0,240.0,2000,4.0,220.0,,-17.889,-63.29,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127500.0,6.0,3.0,162.94,2022,3.0,215.67,1.0,-17.809,-63.136,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,3.0,291.5,2023,4.0,320.0,1.0,-17.856,-63.208,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,2.0,370.0,2013,9.0,230.0,4.0,-17.785,-63.112,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,ESTE, Andrés Ibáñez, Santa Cruz
+120000.0,8.0,3.0,213.05,2010,3.0,136.0,,-17.681,-63.154,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,,2.0,262.5,2017,3.0,97.33,,-17.695,-63.134,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+123000.0,6.0,3.0,245.0,2011,4.0,146.0,,-17.762,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+122604.0,,2.0,,2023,2.0,90.15,,-17.762,-63.199,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+125000.0,,4.0,179.86,2013,4.0,208.32,2.0,-17.765,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,12.0,3.0,280.0,2019,4.0,189.0,,-17.847,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,3.0,126.0,2021,3.0,126.5,2.0,-17.745,-63.233,Casa,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,180.0,2021,3.0,200.0,,-17.853,-63.192,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,171.0,2015,3.0,175.0,,-17.709,-63.172,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125000.0,16.0,3.0,360.0,2011,7.0,300.0,3.0,-17.813,-63.092,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,9.0,3.0,193.0,2011,3.0,165.0,2.0,-17.839,-63.185,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125176.0,4.0,4.0,,2019,3.0,156.47,,-17.795,-63.2,Departamento,En Venta,Santa Cruz de la Sierra,Urbari, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+124900.0,10.0,2.0,,2022,3.0,182.47,,-17.831,-63.178,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127000.0,,3.0,240.0,2000,4.0,220.0,,-17.889,-63.29,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127500.0,6.0,3.0,162.94,2022,3.0,215.67,1.0,-17.809,-63.136,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,3.0,291.5,2023,4.0,320.0,1.0,-17.856,-63.208,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,2.0,370.0,2013,9.0,230.0,4.0,-17.785,-63.112,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,ESTE, Andrés Ibáñez, Santa Cruz
+120000.0,8.0,3.0,213.05,2010,3.0,136.0,,-17.681,-63.154,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,,2.0,262.5,2017,3.0,97.33,,-17.695,-63.134,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+123000.0,6.0,3.0,245.0,2011,4.0,146.0,,-17.762,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+122604.0,,2.0,,2023,2.0,90.15,,-17.762,-63.199,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+125000.0,,4.0,179.86,2013,4.0,208.32,2.0,-17.765,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,12.0,3.0,280.0,2019,4.0,189.0,,-17.847,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,3.0,126.0,2021,3.0,126.5,2.0,-17.745,-63.233,Casa,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,180.0,2021,3.0,200.0,,-17.853,-63.192,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,16.0,3.0,360.0,2011,7.0,300.0,3.0,-17.813,-63.092,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,9.0,3.0,193.0,2011,3.0,165.0,2.0,-17.839,-63.185,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125176.0,4.0,4.0,,2019,3.0,156.47,,-17.795,-63.2,Departamento,En Venta,Santa Cruz de la Sierra,Urbari, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+124900.0,10.0,2.0,,2022,3.0,182.47,,-17.831,-63.178,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127000.0,,3.0,240.0,2000,4.0,220.0,,-17.889,-63.29,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127500.0,6.0,3.0,162.94,2022,3.0,215.67,1.0,-17.809,-63.136,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,3.0,291.5,2023,4.0,320.0,1.0,-17.856,-63.208,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,2.0,370.0,2013,9.0,230.0,4.0,-17.785,-63.112,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,ESTE, Andrés Ibáñez, Santa Cruz
+120000.0,8.0,3.0,213.05,2010,3.0,136.0,,-17.681,-63.154,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,,2.0,262.5,2017,3.0,97.33,,-17.695,-63.134,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+123000.0,6.0,3.0,245.0,2011,4.0,146.0,,-17.762,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+122604.0,,2.0,,2023,2.0,90.15,,-17.762,-63.199,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+125000.0,,4.0,179.86,2013,4.0,208.32,2.0,-17.765,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,12.0,3.0,280.0,2019,4.0,189.0,,-17.847,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,3.0,126.0,2021,3.0,126.5,2.0,-17.745,-63.233,Casa,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,180.0,2021,3.0,200.0,,-17.853,-63.192,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,16.0,3.0,360.0,2011,7.0,300.0,3.0,-17.813,-63.092,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,9.0,3.0,193.0,2011,3.0,165.0,2.0,-17.839,-63.185,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125176.0,4.0,4.0,,2019,3.0,156.47,,-17.795,-63.2,Departamento,En Venta,Santa Cruz de la Sierra,Urbari, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+124900.0,10.0,2.0,,2022,3.0,182.47,,-17.831,-63.178,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127000.0,,3.0,240.0,2000,4.0,220.0,,-17.889,-63.29,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127500.0,6.0,3.0,162.94,2022,3.0,215.67,1.0,-17.809,-63.136,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,3.0,291.5,2023,4.0,320.0,1.0,-17.856,-63.208,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,2.0,370.0,2013,9.0,230.0,4.0,-17.785,-63.112,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,ESTE, Andrés Ibáñez, Santa Cruz
+120000.0,8.0,3.0,213.05,2010,3.0,136.0,,-17.681,-63.154,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,,2.0,262.5,2017,3.0,97.33,,-17.695,-63.134,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+122604.0,,2.0,,2023,2.0,90.15,,-17.762,-63.199,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+125000.0,,4.0,179.86,2013,4.0,208.32,2.0,-17.765,-63.1,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,12.0,3.0,280.0,2019,4.0,189.0,,-17.847,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,3.0,126.0,2021,3.0,126.5,2.0,-17.745,-63.233,Casa,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,180.0,2021,3.0,200.0,,-17.853,-63.192,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,16.0,3.0,360.0,2011,7.0,300.0,3.0,-17.813,-63.092,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,9.0,3.0,193.0,2011,3.0,165.0,2.0,-17.839,-63.185,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125176.0,4.0,4.0,,2019,3.0,156.47,,-17.795,-63.2,Departamento,En Venta,Santa Cruz de la Sierra,Urbari, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+124900.0,10.0,2.0,,2022,3.0,182.47,,-17.831,-63.178,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127000.0,,3.0,240.0,2000,4.0,220.0,,-17.889,-63.29,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127500.0,6.0,3.0,162.94,2022,3.0,215.67,1.0,-17.809,-63.136,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,3.0,291.5,2023,4.0,320.0,1.0,-17.856,-63.208,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,2.0,370.0,2013,9.0,230.0,4.0,-17.785,-63.112,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,ESTE, Andrés Ibáñez, Santa Cruz
+120000.0,8.0,3.0,213.05,2010,3.0,136.0,,-17.681,-63.154,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,,2.0,262.5,2017,3.0,97.33,,-17.695,-63.134,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+122604.0,,2.0,,2023,2.0,90.15,,-17.762,-63.199,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+125000.0,12.0,3.0,280.0,2019,4.0,189.0,,-17.847,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,3.0,126.0,2021,3.0,126.5,2.0,-17.745,-63.233,Casa,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,180.0,2021,3.0,200.0,,-17.853,-63.192,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,16.0,3.0,360.0,2011,7.0,300.0,3.0,-17.813,-63.092,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,9.0,3.0,193.0,2011,3.0,165.0,2.0,-17.839,-63.185,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125176.0,4.0,4.0,,2019,3.0,156.47,,-17.795,-63.2,Departamento,En Venta,Santa Cruz de la Sierra,Urbari, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+124900.0,10.0,2.0,,2022,3.0,182.47,,-17.831,-63.178,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127000.0,,3.0,240.0,2000,4.0,220.0,,-17.889,-63.29,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127500.0,6.0,3.0,162.94,2022,3.0,215.67,1.0,-17.809,-63.136,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,3.0,291.5,2023,4.0,320.0,1.0,-17.856,-63.208,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,2.0,370.0,2013,9.0,230.0,4.0,-17.785,-63.112,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,ESTE, Andrés Ibáñez, Santa Cruz
+120000.0,8.0,3.0,213.05,2010,3.0,136.0,,-17.681,-63.154,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,,2.0,262.5,2017,3.0,97.33,,-17.695,-63.134,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+122604.0,,2.0,,2023,2.0,90.15,,-17.762,-63.199,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+125000.0,12.0,3.0,280.0,2019,4.0,189.0,,-17.847,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,3.0,126.0,2021,3.0,126.5,2.0,-17.745,-63.233,Casa,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,180.0,2021,3.0,200.0,,-17.853,-63.192,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,16.0,3.0,360.0,2011,7.0,300.0,3.0,-17.813,-63.092,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,9.0,3.0,193.0,2011,3.0,165.0,2.0,-17.839,-63.185,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125176.0,4.0,4.0,,2019,3.0,156.47,,-17.795,-63.2,Departamento,En Venta,Santa Cruz de la Sierra,Urbari, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+124900.0,10.0,2.0,,2022,3.0,182.47,,-17.831,-63.178,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127000.0,,3.0,240.0,2000,4.0,220.0,,-17.889,-63.29,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127500.0,6.0,3.0,162.94,2022,3.0,215.67,1.0,-17.809,-63.136,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,3.0,291.5,2023,4.0,320.0,1.0,-17.856,-63.208,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+120000.0,11.0,2.0,370.0,2013,9.0,230.0,4.0,-17.785,-63.112,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,ESTE, Andrés Ibáñez, Santa Cruz
+120000.0,8.0,3.0,213.05,2010,3.0,136.0,,-17.681,-63.154,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120649.0,,2.0,,2021,3.0,109.0,,-17.726,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+120000.0,,2.0,262.5,2017,3.0,97.33,,-17.695,-63.134,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+123598.0,6.0,2.0,,2022,2.0,85.24,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+122604.0,,2.0,,2023,2.0,90.15,,-17.762,-63.199,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+125000.0,12.0,3.0,280.0,2019,4.0,189.0,,-17.847,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,,3.0,126.0,2021,3.0,126.5,2.0,-17.745,-63.233,Casa,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+125000.0,,2.0,180.0,2021,3.0,200.0,,-17.853,-63.192,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125000.0,16.0,3.0,360.0,2011,7.0,300.0,3.0,-17.813,-63.092,Casa con Espacio Comercial,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+125000.0,9.0,3.0,193.0,2011,3.0,165.0,2.0,-17.839,-63.185,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+125176.0,4.0,4.0,,2019,3.0,156.47,,-17.795,-63.2,Departamento,En Venta,Santa Cruz de la Sierra,Urbari, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+124900.0,10.0,2.0,,2022,3.0,182.47,,-17.831,-63.178,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127000.0,,3.0,240.0,2000,4.0,220.0,,-17.889,-63.29,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127500.0,6.0,3.0,162.94,2022,3.0,215.67,1.0,-17.809,-63.136,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+124900.0,10.0,2.0,,2022,3.0,182.47,,-17.831,-63.178,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127000.0,,3.0,240.0,2000,4.0,220.0,,-17.889,-63.29,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127500.0,6.0,3.0,162.94,2022,3.0,215.67,1.0,-17.809,-63.136,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+127687.0,6.0,2.0,,2022,2.0,88.06,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+128000.0,8.0,3.0,430.21,2011,3.0,216.0,2.0,-17.839,-63.194,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+128397.0,,2.0,,2025,3.0,101.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+129000.0,,2.0,,2017,3.0,133.0,1.0,-17.793,-63.224,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+130000.0,,2.0,,2021,2.0,78.0,1.0,-17.766,-63.199,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+130000.0,6.0,3.0,280.0,2022,3.0,190.0,,-17.849,-63.187,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+130000.0,,2.0,417.58,2010,7.0,221.0,3.0,-17.793,-63.129,Casa,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+130000.0,6.0,2.0,720.0,2018,4.0,250.0,,-17.832,-63.113,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+130000.0,,3.0,400.0,2015,4.0,147.0,,-17.688,-63.143,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+130000.0,,2.0,,2015,3.0,148.0,,-17.789,-63.175,Departamento,En Venta,Santa Cruz de la Sierra,Centro (Casco Viejo), Andrés Ibáñez, Santa Cruz
+130000.0,8.0,3.0,366.0,2019,3.0,238.0,,-17.75,-63.097,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+130000.0,,4.0,480.0,2010,5.0,319.0,,-17.724,-63.153,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+130000.0,9.0,2.0,366.0,2016,3.0,134.0,,-17.768,-63.104,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+130000.0,8.0,2.0,678.81,2000,5.0,160.0,,-17.843,-63.151,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+130000.0,7.0,3.0,360.0,2002,4.0,180.0,6.0,-17.803,-63.115,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+130000.0,6.0,2.0,300.0,2000,3.0,150.0,2.0,-17.755,-63.092,Casa,En Venta,Santa Cruz de la Sierra,Noroeste, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+124900.0,10.0,2.0,,2022,3.0,182.47,,-17.831,-63.178,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127000.0,,3.0,240.0,2000,4.0,220.0,,-17.889,-63.29,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127500.0,6.0,3.0,162.94,2022,3.0,215.67,1.0,-17.809,-63.136,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+127687.0,6.0,2.0,,2022,2.0,88.06,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+128000.0,8.0,3.0,430.21,2011,3.0,216.0,2.0,-17.839,-63.194,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+128397.0,,2.0,,2025,3.0,101.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+129000.0,,2.0,,2017,3.0,133.0,1.0,-17.793,-63.224,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+130000.0,,2.0,,2021,2.0,78.0,1.0,-17.766,-63.199,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+130000.0,6.0,3.0,280.0,2022,3.0,190.0,,-17.849,-63.187,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+130000.0,,2.0,417.58,2010,7.0,221.0,3.0,-17.793,-63.129,Casa,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+130000.0,6.0,2.0,720.0,2018,4.0,250.0,,-17.832,-63.113,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+130000.0,,3.0,400.0,2015,4.0,147.0,,-17.688,-63.143,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+130000.0,,2.0,,2015,3.0,148.0,,-17.789,-63.175,Departamento,En Venta,Santa Cruz de la Sierra,Centro (Casco Viejo), Andrés Ibáñez, Santa Cruz
+130000.0,8.0,3.0,366.0,2019,3.0,238.0,,-17.75,-63.097,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+130000.0,,4.0,480.0,2010,5.0,319.0,,-17.724,-63.153,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+130000.0,9.0,2.0,366.0,2016,3.0,134.0,,-17.768,-63.104,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+130000.0,8.0,2.0,678.81,2000,5.0,160.0,,-17.843,-63.151,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+130000.0,7.0,3.0,360.0,2002,4.0,180.0,6.0,-17.803,-63.115,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+130000.0,6.0,2.0,300.0,2000,3.0,150.0,2.0,-17.755,-63.092,Casa,En Venta,Santa Cruz de la Sierra,Noroeste, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+125900.0,7.0,3.0,228.0,2022,3.0,185.0,2.0,-17.716,-63.149,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+124900.0,10.0,2.0,,2022,3.0,182.47,,-17.831,-63.178,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127000.0,,3.0,240.0,2000,4.0,220.0,,-17.889,-63.29,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+127500.0,6.0,3.0,162.94,2022,3.0,215.67,1.0,-17.809,-63.136,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+127565.0,,2.0,,2024,3.0,106.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+127687.0,6.0,2.0,,2022,2.0,88.06,,-17.766,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+128000.0,8.0,3.0,430.21,2011,3.0,216.0,2.0,-17.839,-63.194,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+128397.0,,2.0,,2025,3.0,101.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+129000.0,,2.0,,2017,3.0,133.0,1.0,-17.793,-63.224,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+130000.0,,2.0,,2021,2.0,78.0,1.0,-17.766,-63.199,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+130000.0,6.0,3.0,280.0,2022,3.0,190.0,,-17.849,-63.187,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+130000.0,,2.0,417.58,2010,7.0,221.0,3.0,-17.793,-63.129,Casa,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+130000.0,6.0,2.0,720.0,2018,4.0,250.0,,-17.832,-63.113,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+130000.0,,3.0,400.0,2015,4.0,147.0,,-17.688,-63.143,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+130000.0,,2.0,,2015,3.0,148.0,,-17.789,-63.175,Departamento,En Venta,Santa Cruz de la Sierra,Centro (Casco Viejo), Andrés Ibáñez, Santa Cruz
+130000.0,8.0,3.0,366.0,2019,3.0,238.0,,-17.75,-63.097,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+130000.0,,4.0,480.0,2010,5.0,319.0,,-17.724,-63.153,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+130000.0,9.0,2.0,366.0,2016,3.0,134.0,,-17.768,-63.104,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+130000.0,8.0,2.0,678.81,2000,5.0,160.0,,-17.843,-63.151,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+130000.0,7.0,3.0,360.0,2002,4.0,180.0,6.0,-17.803,-63.115,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+130000.0,6.0,2.0,300.0,2000,3.0,150.0,2.0,-17.755,-63.092,Casa,En Venta,Santa Cruz de la Sierra,Noroeste, Andrés Ibáñez, Santa Cruz
+50000.0,5.0,2.0,187.5,2021,3.0,103.98,1.0,-17.914,-63.205,Casa,En Venta,La guardia,calle s/n, Andrés Ibáñez, Santa Cruz
+50000.0,7.0,2.0,360.0,2008,3.0,120.0,,-17.607,-63.146,Penthouse,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+50000.0,6.0,3.0,,2022,4.0,185.0,,-17.746,-63.184,Departamento,En Venta,Santa Cruz de la Sierra,Radial 26, Andrés Ibáñez, Santa Cruz
+50000.0,6.0,3.0,,2022,4.0,185.0,,-17.746,-63.184,Departamento,En Venta,Santa Cruz de la Sierra,Radial 26, Andrés Ibáñez, Santa Cruz
+50000.0,5.0,1.0,252.0,2016,3.0,98.0,,-17.878,-63.246,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+50000.0,,2.0,"35,833",2018,3.0,160.0,,-17.763,-63.006,Casa,En Venta,Cotoca,B/ Paraiso, Andrés Ibáñez, Santa Cruz
+50022.0,,1.0,,2023,1.0,55.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+50022.0,,1.0,,2023,1.0,55.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+50022.0,,1.0,,2023,1.0,55.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+50022.0,,1.0,,2023,1.0,55.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+50000.0,,1.0,,2004,2.0,53.0,,-17.768,-63.169,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+50000.0,5.0,1.0,,2018,2.0,72.5,,-17.741,-63.175,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+50170.0,,1.0,,2024,1.0,37.0,,-17.765,-63.194,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+50544.0,,1.0,,2023,1.0,56.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+50544.0,,1.0,,2023,1.0,56.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+51000.0,6.0,2.0,200.0,2015,2.0,120.0,,-17.753,-63.083,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+51000.0,5.0,1.0,357.0,2022,2.0,78.0,,-17.601,-63.185,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+51210.0,,1.0,,2024,1.0,37.0,,-17.765,-63.194,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+51401.0,,1.0,,2024,1.0,45.69,,-17.765,-63.174,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+51401.0,,1.0,,2024,1.0,45.69,,-17.765,-63.174,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+52000.0,,1.0,,2014,1.0,56.0,1.0,-17.794,-63.165,Departamento,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+52000.0,2.0,1.0,,2015,1.0,42.0,,-17.76,-63.174,Estudio/Monoambiente,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+52000.0,,2.0,,2022,2.0,78.0,,-17.765,-63.035,Casa,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+52000.0,,2.0,275.0,2006,3.0,275.0,,-17.685,-63.161,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+52363.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+52363.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+52363.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+52363.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+52363.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+52400.0,,1.0,,2024,1.0,39.0,,-17.765,-63.194,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+53000.0,6.0,2.0,180.0,2022,3.0,100.0,,-17.667,-63.174,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+53000.0,,1.0,360.0,2021,3.0,85.0,,-17.787,-63.148,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+53390.0,,2.0,,2022,1.0,44.0,,-17.763,-63.18,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+53818.0,,1.0,,2025,1.0,42.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+53818.0,,1.0,,2025,1.0,42.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+53818.0,,1.0,,2025,1.0,42.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+53818.0,,1.0,,2025,1.0,42.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+53818.0,,1.0,,2025,1.0,42.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+53818.0,,1.0,,2025,1.0,42.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+53818.0,,1.0,,2025,1.0,42.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+53818.0,,1.0,,2025,1.0,42.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+53852.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+53852.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+53852.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+53852.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+53852.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+53852.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+53852.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+53852.0,,2.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+53852.0,,2.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+53852.0,,2.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+53852.0,,2.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+53852.0,,2.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+54310.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+54310.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+54310.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+54310.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+54310.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+54310.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+54310.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+54310.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+54310.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+54500.0,,1.0,,2021,1.0,38.65,1.0,-17.773,-63.189,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+54900.0,3.0,1.0,,2009,2.0,69.0,,-17.777,-63.212,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+54925.0,4.0,1.0,,2022,1.0,44.05,,-17.783,-63.171,Departamento,En Venta,Santa Cruz de la Sierra,Centro (Casco Viejo), Andrés Ibáñez, Santa Cruz
+55000.0,6.0,2.0,260.0,2020,2.0,185.0,,-17.87,-63.276,Casa,En Venta,La guardia,7 Calle Cancún, Andrés Ibáñez, Santa Cruz
+55000.0,5.0,1.0,200.0,2010,3.0,560.0,,-0.0,0.0,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+55000.0,,2.0,288.0,2019,3.0,123.0,2.0,-17.756,-63.062,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+55000.0,,4.0,169.0,2021,3.0,120.0,,-17.752,-63.003,Casa,En Venta,Cotoca,primer anillo cotoca, Andrés Ibáñez, Santa Cruz
+55000.0,6.0,2.0,,2005,2.0,59.56,1.0,-17.772,-63.173,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55000.0,8.0,2.0,250.0,2018,8.0,110.0,,-17.806,-63.081,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+55000.0,3.0,1.0,300.0,2015,3.0,57.0,,-17.782,-63.117,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+55000.0,,2.0,352.62,2015,3.0,94.29,,-17.747,-63.063,Casa,En Venta,Cotoca,URB MOTACU, Andrés Ibáñez, Santa Cruz
+55349.0,,1.0,,2025,1.0,42.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55349.0,,1.0,,2025,1.0,42.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55349.0,,1.0,,2025,1.0,42.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55349.0,,1.0,,2025,1.0,42.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55349.0,,1.0,,2025,1.0,42.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55349.0,,1.0,,2025,1.0,42.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55349.0,,1.0,,2025,1.0,42.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55349.0,,1.0,,2025,1.0,42.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55349.0,,1.0,,2025,1.0,42.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55349.0,,1.0,,2025,1.0,42.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55349.0,,1.0,,2025,1.0,42.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55349.0,,1.0,,2025,1.0,42.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55349.0,,1.0,,2025,1.0,42.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55349.0,,1.0,,2025,1.0,42.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55349.0,,1.0,,2025,1.0,42.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55349.0,,1.0,,2025,1.0,42.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55349.0,,1.0,,2025,1.0,42.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55349.0,,1.0,,2025,1.0,42.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55370.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55370.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55370.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55370.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55370.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55370.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55370.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55370.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55370.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+55370.0,,1.0,,2025,1.0,41.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+56000.0,,1.0,,2017,2.0,57.0,,-17.734,-63.157,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+56000.0,,2.0,,2013,2.0,80.0,1.0,-17.76,-63.126,Departamento,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+56050.0,,2.0,,2022,2.0,87.0,,-17.765,-63.035,Casa,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+56577.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+56577.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+56577.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+56577.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+56577.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+56577.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+56577.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+57000.0,,2.0,315.0,2023,3.0,100.0,,-17.796,-63.066,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+57000.0,2.0,2.0,330.0,2015,3.0,158.6,,-17.584,-63.098,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+57500.0,6.0,2.0,225.0,2022,3.0,115.0,,-17.858,-63.145,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+57500.0,,2.0,225.0,2022,3.0,115.0,,-17.858,-63.144,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+57800.0,6.0,1.0,,2021,1.0,47.59,,-17.768,-63.195,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+58000.0,5.0,1.0,337.0,2013,2.0,76.0,,-17.867,-63.141,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+58000.0,,1.0,,2014,2.0,65.0,,-17.714,-63.165,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+58000.0,,1.0,,2020,,34.96,,-17.773,-63.185,Estudio/Monoambiente,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+58000.0,,2.0,300.0,2022,3.0,120.0,,-17.751,-63.005,Casa,En Venta,Cotoca,Cotoca 1ER Y SEGUNDO ANILLO, Andrés Ibáñez, Santa Cruz
+58000.0,,1.0,,2023,1.0,41.0,,-17.763,-63.179,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+58186.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+58186.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+58186.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+58186.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+58186.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+58186.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+58186.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+58186.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+58186.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+58186.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+58186.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+58186.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+58186.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+58186.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+58681.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+58681.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+58681.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+58681.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+58681.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+58681.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+58682.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+58682.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+58682.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+58682.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+58682.0,,1.0,,2025,1.0,44.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+59000.0,5.0,2.0,"11,362",2020,2.0,58.0,,-17.765,-63.273,Casa,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+59000.0,,2.0,350.0,2019,3.0,115.0,4.0,-17.754,-63.065,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+59000.0,,1.0,240.0,2017,3.0,72.0,2.0,-17.842,-63.126,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+59000.0,3.0,2.0,360.0,2019,3.0,280.0,,-17.898,-63.278,Casa,En Venta,Santa Cruz de la Sierra,Suroeste, Andrés Ibáñez, Santa Cruz
+59000.0,7.0,2.0,288.0,2021,3.0,128.0,,-17.753,-63.067,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+59131.0,3.0,2.0,,2022,2.0,68.95,,-17.808,-63.221,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+59131.0,3.0,2.0,,2022,2.0,68.95,,-17.808,-63.221,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+59131.0,3.0,2.0,,2022,2.0,68.95,,-17.808,-63.221,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+59000.0,6.0,3.0,,2010,3.0,110.0,1.0,-17.737,-63.173,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+59994.0,,2.0,,2023,1.0,54.54,,-17.78,-63.249,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+59994.0,,2.0,,2023,1.0,54.54,,-17.78,-63.249,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+59994.0,,2.0,,2023,1.0,54.54,,-17.78,-63.249,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+59994.0,,2.0,,2023,1.0,54.54,,-17.78,-63.249,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+59994.0,,2.0,,2023,1.0,54.54,,-17.78,-63.249,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+59994.0,,2.0,,2023,1.0,54.54,,-17.78,-63.249,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+59994.0,,2.0,,2023,1.0,54.54,,-17.78,-63.249,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+59994.0,,2.0,,2023,1.0,54.54,,-17.749,-63.235,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+59994.0,,2.0,,2023,1.0,54.54,,-17.749,-63.235,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+59994.0,,2.0,,2023,1.0,54.54,,-17.749,-63.235,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+59994.0,,2.0,,2023,1.0,54.54,,-17.749,-63.235,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+59994.0,,2.0,,2023,1.0,54.54,,-17.749,-63.235,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+59994.0,,2.0,,2023,1.0,54.54,,-17.749,-63.235,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+60000.0,,2.0,300.0,2022,3.0,75.0,3.0,-17.849,-63.143,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+60000.0,3.0,1.0,,2016,1.0,43.0,1.0,-17.733,-63.154,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+60000.0,6.0,2.0,254.76,2012,3.0,80.0,1.0,-17.801,-63.08,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+60000.0,7.0,2.0,402.86,2009,3.0,92.0,,-17.761,-63.073,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+60000.0,,3.0,,2010,3.0,195.0,,-17.772,-63.191,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+60000.0,6.0,3.0,250.0,2016,3.0,190.0,1.0,-17.581,-63.114,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+60000.0,7.0,2.0,300.0,2019,3.0,160.0,,-17.586,-63.134,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+60000.0,11.0,2.0,300.0,2018,6.0,140.0,2.0,-17.9,-63.276,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+60000.0,2.0,1.0,,2016,,44.1,,-17.762,-63.184,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+60000.0,3.0,1.0,65.43,2023,1.0,65.43,,-17.754,-63.194,Departamento,En Venta,Santa Cruz de la Sierra,Noreste, Andrés Ibáñez, Santa Cruz
+60000.0,,2.0,457.0,2021,3.0,80.0,,-17.747,-63.098,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+61000.0,,1.0,,2019,2.0,80.55,,-17.83,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+61000.0,,1.0,,2019,2.0,80.55,,-17.83,-63.179,Departamento,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+61000.0,,1.0,,2019,2.0,80.55,,-17.83,-63.18,Departamento,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+61232.0,,1.0,,2025,1.0,46.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+61232.0,,1.0,,2025,1.0,46.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+61232.0,,1.0,,2025,1.0,46.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+61232.0,,1.0,,2025,1.0,46.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+61232.0,,1.0,,2025,1.0,46.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+61232.0,,1.0,,2025,1.0,46.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+61232.0,,1.0,,2025,1.0,46.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+61232.0,,1.0,,2025,1.0,46.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+61232.0,,1.0,,2025,1.0,46.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+61232.0,,1.0,,2025,1.0,46.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+61232.0,,1.0,,2025,1.0,46.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+61232.0,,1.0,,2025,1.0,46.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+61232.0,,1.0,,2025,1.0,46.0,,-17.768,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+61800.0,,2.0,,2022,2.0,64.1,,-17.789,-63.227,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+61936.0,,1.0,,2023,1.0,44.24,,-17.765,-63.174,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+62000.0,4.0,1.0,69.43,2007,2.0,69.43,1.0,-17.791,-63.218,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+62000.0,3.0,1.0,,2019,1.0,45.58,,-17.764,-63.192,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+62000.0,,1.0,,2018,2.0,74.0,,0.0,0.0,Departamento,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+62500.0,3.0,2.0,164.0,2018,3.0,105.0,2.0,-17.836,-63.244,Casa,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+62500.0,,3.0,180.0,2019,3.0,120.0,,-17.662,-63.171,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+63000.0,,1.0,,2019,2.0,84.0,,-17.829,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+63000.0,,1.0,,2019,3.0,84.0,,-17.83,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+63000.0,4.0,1.0,,2019,2.0,64.77,,-17.738,-63.157,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+63000.0,,1.0,,2020,2.0,84.0,,-17.829,-63.179,Departamento,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+63000.0,,1.0,,2019,2.0,84.0,,-17.829,-63.179,Departamento,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+63000.0,5.0,1.0,,2017,2.0,50.5,1.0,-17.796,-63.195,Departamento,En Venta,Santa Cruz de la Sierra,Urbari, Andrés Ibáñez, Santa Cruz
+63000.0,,2.0,372.0,2000,3.0,163.0,,-17.828,-63.206,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+63000.0,3.0,1.0,42.62,2023,1.0,42.62,,-17.754,-63.194,Departamento,En Venta,Santa Cruz de la Sierra,Noreste, Andrés Ibáñez, Santa Cruz
+63000.0,6.0,2.0,205.0,2015,6.0,95.0,1.0,-17.831,-63.243,Casa,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+63384.0,4.0,1.0,,2022,1.0,52.95,,-17.783,-63.171,Departamento,En Venta,Santa Cruz de la Sierra,Centro (Casco Viejo), Andrés Ibáñez, Santa Cruz
+64000.0,5.0,2.0,377.76,2022,3.0,157.0,,-17.767,-63.049,Casa,En Venta,Cotoca,"Cotoca Barrio tamarindo, cerca de jardín botánico", Andrés Ibáñez, Santa Cruz
+64000.0,4.0,2.0,109.75,2013,2.0,109.75,,-17.748,-63.171,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+64500.0,2.0,1.0,,2022,1.0,44.05,,-17.762,-63.179,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+65000.0,,1.0,,2015,1.0,60.0,,-17.791,-63.177,Departamento,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+65000.0,9.0,2.0,320.0,2016,4.0,109.0,2.0,-17.611,-63.164,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+65000.0,3.0,1.0,,2019,1.0,44.9,,-17.773,-63.168,Departamento,En Venta,Santa Cruz de la Sierra,Noreste, Andrés Ibáñez, Santa Cruz
+65000.0,7.0,1.0,360.0,2017,2.0,98.0,,-17.874,-63.189,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+65000.0,,2.0,330.0,2012,3.0,110.0,2.0,-17.63,-63.167,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+65000.0,,2.0,,2019,2.0,53.3,,-17.714,-63.181,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+65000.0,,2.0,360.0,2022,3.0,185.0,,-17.85,-63.273,Casa,En Venta,Santa Cruz de la Sierra,Suroeste, Andrés Ibáñez, Santa Cruz
+65000.0,4.0,1.0,180.0,2015,2.0,103.0,,-17.724,-63.181,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+65000.0,4.0,2.0,,2019,2.0,78.23,,-17.771,-63.174,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+65000.0,7.0,2.0,360.0,2018,3.0,130.0,2.0,-17.722,-63.085,Casa,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+65000.0,4.0,3.0,200.0,2022,2.0,100.0,1.0,-17.665,-63.169,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+65000.0,10.0,3.0,134.0,2023,3.0,96.67,,-17.854,-63.26,Casa,En Venta,Santa Cruz de la Sierra,Doble vía La Guardia, Andrés Ibáñez, Santa Cruz
+65000.0,7.0,2.0,300.0,2022,3.0,150.0,,-17.718,-63.089,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+65000.0,5.0,3.0,,2000,3.0,135.0,1.0,-17.78,-63.191,Departamento,En Venta,Santa Cruz de la Sierra,Noroeste, Andrés Ibáñez, Santa Cruz
+65000.0,,2.0,393.64,2017,3.0,143.0,,-17.712,-63.166,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+65000.0,6.0,2.0,366.0,2010,3.0,198.0,,-17.729,-63.082,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+65000.0,7.0,2.0,409.0,2010,3.0,120.0,,-17.637,-63.168,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+65660.0,4.0,2.0,,2022,2.0,67.0,1.0,-17.789,-63.224,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+65700.0,,2.0,394.0,2020,3.0,115.0,4.0,-17.757,-63.071,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+66000.0,2.0,1.0,500.0,2018,1.0,34.0,,-17.758,-63.198,Estudio/Monoambiente,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+66000.0,,1.0,300.0,2014,2.0,78.0,,-17.745,-63.116,Casa,En Venta,Santa Cruz de la Sierra,Noreste, Andrés Ibáñez, Santa Cruz
+66900.0,10.0,3.0,360.0,2006,7.0,150.0,,-17.822,-63.112,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+67000.0,4.0,1.0,346.91,2022,2.0,158.0,,-17.846,-63.214,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+67000.0,,2.0,112.0,2021,2.0,58.0,,-17.809,-63.271,Casa,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+67000.0,,3.0,,2013,2.0,91.39,1.0,-17.747,-63.157,Duplex,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+67000.0,8.0,2.0,320.0,2017,3.0,140.0,,-17.769,-63.066,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+67000.0,5.0,2.0,91.0,2018,2.0,91.0,,-17.804,-63.157,Departamento,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+68000.0,,2.0,193.0,2015,3.0,87.0,,-17.836,-63.245,Casa,En Venta,Santa Cruz de la Sierra,Suroeste, Andrés Ibáñez, Santa Cruz
+68000.0,2.0,1.0,,2016,1.0,62.83,,-17.755,-63.196,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+68000.0,8.0,2.0,300.0,2022,3.0,110.0,,-17.653,-63.173,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+68000.0,5.0,2.0,250.0,2021,3.0,98.0,2.0,-17.792,-63.093,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+68000.0,,1.0,,2022,1.0,59.5,,-17.787,-63.221,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+68000.0,6.0,2.0,336.0,2023,3.0,198.0,,-17.846,-63.097,Casa,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+68000.0,5.0,1.0,,2017,2.0,68.0,1.0,-17.792,-63.224,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+68000.0,7.0,2.0,260.5,2019,3.0,120.0,,-17.791,-63.089,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+68000.0,8.0,2.0,260.5,2019,3.0,120.0,,-17.791,-63.089,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+68000.0,8.0,2.0,260.5,2019,3.0,120.0,,-17.791,-63.089,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+68000.0,,2.0,260.5,2019,3.0,120.0,,-17.791,-63.089,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+68000.0,8.0,3.0,360.0,2020,3.0,180.0,,-17.731,-63.078,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+68000.0,8.0,2.0,240.0,2020,3.0,200.0,,-17.847,-63.275,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+68500.0,5.0,2.0,85.0,2018,2.0,85.0,,-17.804,-63.157,Departamento,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+68660.0,9.0,2.0,,2022,2.0,78.4,,-17.764,-63.248,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+69000.0,,1.0,,2018,1.0,56.96,,-17.792,-63.176,Departamento,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+69000.0,3.0,1.0,35.0,2016,1.0,35.0,12.0,-17.758,-63.199,Estudio/Monoambiente,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+69300.0,,2.0,,2024,2.0,56.0,,-17.765,-63.194,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+69500.0,5.0,2.0,150.0,2023,3.0,145.0,,-17.756,-63.079,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+69500.0,8.0,3.0,150.0,2023,3.0,135.0,,-17.756,-63.078,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+69500.0,10.0,2.0,231.0,1996,4.0,135.0,1.0,-17.795,-63.122,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+69600.0,,2.0,,2024,2.0,56.0,,-17.765,-63.194,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+69600.0,,2.0,,2024,2.0,56.0,,-17.765,-63.194,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+69900.0,6.0,2.0,300.0,2023,3.0,107.0,,-17.676,-63.19,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+70000.0,,2.0,390.0,2007,2.0,128.0,,-17.577,-63.888,Casa,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+70000.0,4.0,1.0,390.0,2005,3.0,110.0,,-17.829,-63.12,Casa,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+70000.0,,4.0,,1994,3.0,156.0,,-17.785,-63.171,Departamento,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+70000.0,,1.0,360.0,2003,3.0,100.0,,-17.86,-63.215,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+70000.0,9.0,2.0,596.0,2012,5.0,304.0,,-17.859,-63.137,Casa,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+70000.0,5.0,2.0,250.0,2019,3.0,110.0,,-17.757,-63.098,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+70000.0,6.0,1.0,300.0,1994,4.0,120.0,3.0,-17.836,-63.131,Casa,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+37000.0,3.0,1.0,360.0,2010,1.0,58.29,,-17.885,-63.097,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+37800.0,3.0,1.0,,2022,1.0,47.31,,-17.808,-63.221,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+39098.0,3.0,1.0,,2022,1.0,29.19,,-17.783,-63.171,Departamento,En Venta,Santa Cruz de la Sierra,Centro (Casco Viejo), Andrés Ibáñez, Santa Cruz
+39654.0,,1.0,,2023,1.0,44.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+39654.0,,1.0,,2023,1.0,44.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+39654.0,,1.0,,2023,1.0,44.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+39654.0,,1.0,,2023,1.0,44.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+40000.0,,2.0,300.0,2017,3.0,188.0,,-17.592,-63.169,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+40000.0,5.0,1.0,300.0,2021,2.0,67.0,,-17.855,-63.245,Casa,En Venta,La guardia,Final Av. Moscú, Andrés Ibáñez, Santa Cruz
+40522.0,3.0,1.0,,2022,1.0,47.31,,-17.808,-63.221,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+40522.0,3.0,1.0,,2022,1.0,47.31,,-17.808,-63.221,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+41000.0,3.0,1.0,,2023,1.0,41.41,,-17.79,-63.201,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+41500.0,1.0,1.0,,2023,1.0,35.0,,-17.77,-63.169,Estudio/Monoambiente,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+41500.0,2.0,1.0,,2021,1.0,37.0,,-17.742,-63.17,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+41600.0,2.0,1.0,573.91,2018,2.0,51.87,,-17.876,-63.183,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+41915.0,3.0,1.0,,2022,1.0,48.87,,-17.808,-63.221,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+41915.0,3.0,1.0,,2022,1.0,48.87,,-17.808,-63.222,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+42000.0,1.0,1.0,200.05,2021,2.0,60.0,,-17.636,-63.167,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+42000.0,3.0,1.0,45.82,2021,1.0,45.82,,-17.784,-63.163,Departamento,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+42641.0,3.0,1.0,,2022,1.0,32.44,,-17.783,-63.171,Departamento,En Venta,Santa Cruz de la Sierra,Centro (Casco Viejo), Andrés Ibáñez, Santa Cruz
+43000.0,8.0,2.0,240.0,2023,3.0,75.0,,-17.901,-63.284,Casa,En Venta,La guardia,Km 16 Doble Vía La Guardia, Andrés Ibáñez, Santa Cruz
+43000.0,2.0,1.0,,2010,1.0,42.0,,-17.791,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Centro (Casco Viejo), Andrés Ibáñez, Santa Cruz
+43848.0,,1.0,,2023,1.0,49.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+43848.0,,1.0,,2023,1.0,49.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+43848.0,,1.0,,2023,1.0,49.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+43848.0,,1.0,,2023,1.0,49.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+45000.0,3.0,1.0,45.0,2023,1.0,45.0,,-17.779,-63.249,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+45000.0,4.0,1.0,250.0,2000,2.0,80.0,,-17.886,-63.182,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+45000.0,6.0,2.0,165.0,2022,3.0,90.0,2.0,-17.758,-63.034,Casa,En Venta,Cotoca,, Andrés Ibáñez, Santa Cruz
+46000.0,,1.0,,2022,1.0,43.73,,-17.807,-63.202,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+46500.0,,1.0,,2020,1.0,40.0,,-17.761,-63.196,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+46896.0,,1.0,,2024,1.0,38.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+46896.0,,1.0,,2024,1.0,38.0,,-17.763,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+47000.0,1.0,1.0,,2022,1.0,44.78,,-17.807,-63.202,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+47000.0,1.0,1.0,32.0,2022,1.0,32.0,,-17.76,-63.197,Estudio/Monoambiente,En Venta,Santa Cruz de la Sierra,, Andrés Ibáñez, Santa Cruz
+47000.0,,1.0,368.0,2016,3.0,70.0,6.0,-17.885,-63.28,Casa,En Venta,Santa Cruz de la Sierra,Sureste, Andrés Ibáñez, Santa Cruz
+47000.0,3.0,1.0,,2019,1.0,47.0,,-17.808,-63.221,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+47050.0,,1.0,,2024,1.0,37.0,,-17.765,-63.194,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+47103.0,,1.0,,2024,1.0,41.87,,-17.765,-63.174,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+47000.0,,2.0,360.0,2022,3.0,103.0,,-17.901,-63.293,Casa,En Venta,La guardia,Urbanización Villa Adelita km 15 doble vía La Guar, Andrés Ibáñez, Santa Cruz
+48000.0,,2.0,360.0,2022,3.0,90.0,,-17.724,-63.072,Casa,En Venta,Cotoca,Urb. El carmen Zona Virgen de Lujan, Andrés Ibáñez, Santa Cruz
+48000.0,,1.0,34.0,2016,1.0,34.0,1.0,-17.745,-63.168,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+48090.0,,1.0,,2024,1.0,37.0,,-17.765,-63.194,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+48500.0,,2.0,270.0,2016,3.0,128.0,,-17.645,-63.171,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+49300.0,,1.0,,2024,1.0,39.0,,-17.765,-63.194,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+49800.0,,2.0,180.0,2022,3.0,101.0,,-17.658,-63.165,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+50000.0,5.0,2.0,240.0,2023,3.0,93.0,2.0,-17.898,-63.287,Casa,En Venta,La guardia,Km 16 Doble Vía La Guardia, Andrés Ibáñez, Santa Cruz
+50000.0,,2.0,317.03,2019,2.0,70.5,1.0,-17.613,-63.17,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+50000.0,5.0,2.0,187.5,2021,3.0,103.98,1.0,-17.914,-63.205,Casa,En Venta,La guardia,calle s/n, Andrés Ibáñez, Santa Cruz
+50000.0,7.0,2.0,360.0,2008,3.0,120.0,,-17.607,-63.146,Penthouse,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+50000.0,6.0,3.0,,2022,4.0,185.0,,-17.746,-63.184,Departamento,En Venta,Santa Cruz de la Sierra,Radial 26, Andrés Ibáñez, Santa Cruz
+50000.0,6.0,3.0,,2022,4.0,185.0,,-17.746,-63.184,Departamento,En Venta,Santa Cruz de la Sierra,Radial 26, Andrés Ibáñez, Santa Cruz
+50000.0,5.0,1.0,252.0,2016,3.0,98.0,,-17.878,-63.246,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+50000.0,,2.0,"35,833",2018,3.0,160.0,,-17.763,-63.006,Casa,En Venta,Cotoca,B/ Paraiso, Andrés Ibáñez, Santa Cruz
+50022.0,,1.0,,2023,1.0,55.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+50022.0,,1.0,,2023,1.0,55.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+50022.0,,1.0,,2023,1.0,55.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+50022.0,,1.0,,2023,1.0,55.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+50000.0,,1.0,,2004,2.0,53.0,,-17.768,-63.169,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+50000.0,5.0,1.0,,2018,2.0,72.5,,-17.741,-63.175,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+50170.0,,1.0,,2024,1.0,37.0,,-17.765,-63.194,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+50544.0,,1.0,,2023,1.0,56.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+50544.0,,1.0,,2023,1.0,56.0,,-17.767,-63.246,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+51000.0,6.0,2.0,200.0,2015,2.0,120.0,,-17.753,-63.083,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+51000.0,5.0,1.0,357.0,2022,2.0,78.0,,-17.601,-63.185,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+51210.0,,1.0,,2024,1.0,37.0,,-17.765,-63.194,Departamento,En Venta,Santa Cruz de la Sierra,Equipetrol/NorOeste, Andrés Ibáñez, Santa Cruz
+51401.0,,1.0,,2024,1.0,45.69,,-17.765,-63.174,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+51401.0,,1.0,,2024,1.0,45.69,,-17.765,-63.174,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+65.0,10.0,3.0,134.0,2023,3.0,96.67,,-17.854,-63.26,Casa,En Venta,Santa Cruz de la Sierra,Doble vía La Guardia, Andrés Ibáñez, Santa Cruz
+550.0,,2.0,178.83,2019,3.0,100.0,,-17.697,-63.154,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+550.0,,3.0,,2010,3.0,111.0,,-17.79,-63.222,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+800.0,5.0,3.0,530.43,2012,4.0,270.0,,-17.69,-63.163,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+1000.0,10.0,3.0,210.0,2010,3.0,215.0,2.0,-17.708,-63.166,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+1300.0,,4.0,255.0,2019,3.0,285.0,,-17.808,-63.226,Casa,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+1400.0,,3.0,,2004,3.0,233.08,,-17.772,-63.201,Departamento,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+11000.0,7.0,2.0,574.46,2010,2.0,201.3,,-17.878,-63.267,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+12000.0,,3.0,360.0,1994,5.0,163.2,,-17.789,-63.136,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+15000.0,,2.0,330.0,2012,3.0,110.0,2.0,-17.63,-63.166,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+15000.0,3.0,1.0,,2015,1.0,55.0,,-17.684,-63.168,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+15000.0,7.0,1.0,180.0,2020,2.0,62.0,1.0,-17.865,-63.186,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+18000.0,7.0,2.0,232.0,2016,3.0,150.0,2.0,-17.569,-63.092,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+20000.0,6.0,1.0,357.12,2016,2.0,98.0,,-17.799,-63.084,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+20000.0,7.0,2.0,,1994,3.0,95.0,,-17.782,-63.178,Departamento,En Venta,Santa Cruz de la Sierra,Centro (Casco Viejo), Andrés Ibáñez, Santa Cruz
+25000.0,,1.0,288.0,2018,2.0,110.0,,-17.751,-62.971,Casa,En Venta,Cotoca,"2DO ANILLO DE COTOCA A SOLO 5 MIN, DE LA PLAZA", Andrés Ibáñez, Santa Cruz
+25000.0,4.0,1.0,240.0,2014,3.0,72.0,,-17.842,-63.126,Casa,En Venta,Santa Cruz de la Sierra,Sur, Andrés Ibáñez, Santa Cruz
+25000.0,7.0,2.0,409.0,2010,3.0,120.0,,-17.637,-63.168,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+26500.0,,1.0,310.0,2022,1.0,42.0,1.0,-17.766,-62.969,Casa,En Venta,Cotoca,URB. LA ARBOLEDA, Andrés Ibáñez, Santa Cruz
+27000.0,5.0,2.0,,2019,3.0,81.0,,-17.709,-63.175,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+28000.0,5.0,1.0,180.0,2022,2.0,45.0,,-17.643,-63.192,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+29000.0,5.0,1.0,180.0,2023,2.0,45.0,,-17.643,-63.192,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+29000.0,5.0,1.0,180.0,2022,2.0,45.0,,-17.643,-63.192,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+29000.0,5.0,1.0,180.0,2022,2.0,45.0,,-17.643,-63.192,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+29500.0,8.0,1.0,310.0,2022,2.0,56.0,1.0,-17.766,-62.969,Casa,En Venta,Cotoca,URB. ARBOLEDA, Andrés Ibáñez, Santa Cruz
+30000.0,6.0,2.0,,2005,2.0,59.56,1.0,-17.772,-63.173,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+31500.0,1.0,1.0,,2022,1.0,30.75,,-17.724,-63.185,Estudio/Monoambiente,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+31950.0,9.0,1.0,39.0,2022,1.0,39.0,90.0,-17.764,-63.248,Departamento,En Venta,Porongo,Urubo, Andrés Ibáñez, Santa Cruz
+32199.0,2.0,1.0,,2021,1.0,33.81,,-0.002,-0.002,Departamento,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+33000.0,5.0,1.0,108.0,2019,2.0,72.0,1.0,-17.602,-63.121,Casa,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+35000.0,1.0,1.0,,2017,1.0,32.0,,-17.77,-63.208,Estudio/Monoambiente,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+35000.0,1.0,1.0,12.5,2019,,29.41,1.0,-17.742,-63.17,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+35000.0,1.0,1.0,12.5,2019,,29.41,1.0,-17.742,-63.17,Estudio/Monoambiente,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+35000.0,3.0,1.0,,2020,1.0,"3,326",,-17.729,-63.172,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+35000.0,10.0,2.0,150.0,2009,3.0,129.0,2.0,-17.756,-63.13,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+35000.0,,1.0,216.0,2021,2.0,70.0,,-17.773,-63.046,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+35000.0,,1.0,216.0,2021,2.0,70.0,,-17.773,-63.046,Casa,En Venta,Santa Cruz de la Sierra,Este, Andrés Ibáñez, Santa Cruz
+35900.0,3.0,1.0,,2022,2.0,52.0,,-17.721,-63.146,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+35900.0,3.0,1.0,,2022,2.0,52.0,,-17.72,-63.147,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+35900.0,3.0,1.0,,2022,2.0,52.0,,-17.72,-63.147,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+35900.0,3.0,1.0,,2022,2.0,52.0,,-17.72,-63.147,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+35900.0,3.0,1.0,,2022,2.0,52.0,,-17.72,-63.147,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+35900.0,3.0,1.0,,2022,2.0,52.0,,-17.72,-63.147,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+35900.0,3.0,1.0,,2022,2.0,52.0,,-17.72,-63.147,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+36000.0,9.0,4.0,409.5,1994,5.0,311.0,2.0,-17.823,-63.215,Casa,En Venta,Santa Cruz de la Sierra,Oeste, Andrés Ibáñez, Santa Cruz
+36400.0,3.0,1.0,,2022,2.0,52.0,,-17.72,-63.147,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
+36400.0,3.0,1.0,,2022,2.0,52.0,,-17.72,-63.147,Departamento,En Venta,Santa Cruz de la Sierra,Norte, Andrés Ibáñez, Santa Cruz
