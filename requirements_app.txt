@@ -1,6 +1,7 @@
 dash
 dash-leaflet
 dash-extensions
+dash-bootstrap-components
 folium
 matplotlib
 numpy
