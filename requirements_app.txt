@@ -1,8 +1,13 @@
-Flask
+dash
+dash-leaflet
+dash-extensions
+folium
 matplotlib
 numpy
 pandas
 pickleshare
+plotly
 scikit-learn
 scipy
 seaborn
+
