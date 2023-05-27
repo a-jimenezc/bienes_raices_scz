@@ -271,7 +271,7 @@ def calculate_value(n_clicks, ambientes, no_baños, terreno_m2, año_constr, no_
         latitud = values[0]
         longitud = values[1]
 
-        x = "just for git"
+
         #prediciendo el resultado
         input_for_model = [ambientes, no_baños, terreno_m2, año_constr, no_dormitorios,
                     area_constr_m2, estacionamientos, latitud, longitud,
