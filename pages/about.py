@@ -5,7 +5,7 @@ import dash_bootstrap_components as dbc
 
 dash.register_page(__name__, 
                    path='/about',
-                   title="About")
+                   title="Acerca de")
 
 layout = html.Div(
     children=[
@@ -44,7 +44,7 @@ layout = html.Div(
                     className="m-2",
                 ),
                 html.A(
-                    href="antonio.jimzC@gmail.com",
+                    href="mailto:antonio.jimzC@gmail.com",
                     target="_blank",
                     children=[
                         html.I(className="fab fa-google"),
