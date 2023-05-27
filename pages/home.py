@@ -158,7 +158,7 @@ input = html.Div([
                style={
                 'display': 'inline-block',
                 'text-align': 'center',
-                'width': '40%',
+                'width': '60%',
                 'height': '300px'}),
         html.Br(),
         html.Br(),
