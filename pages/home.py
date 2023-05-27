@@ -145,7 +145,7 @@ input = html.Div([
         dcc.Input(
             type="text",
             id="coordenadas",
-            placeholder="Coordenadas, hacer click en el mapa",
+            placeholder="Ubicación, hacer click en el mapa",
             #required=True,
             style={
                 'display': 'inline-block',
