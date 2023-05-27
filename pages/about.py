@@ -17,9 +17,9 @@ layout = html.Div(
             html.H4("Sobre el Autor")
             ], style={'textAlign': 'center'}),
         html.P(
-            """Esta página web fue hecha por Antonio Jimenez Caballero. 
-             El objetivo es usar la Ciencia de Datos para hacer accesibles herramientas que
-             resuelvan necesidades en el país. """
+            """Esta página web fue hecha por Antonio Jimenez Caballero con 
+             el objetivo de usar la Ciencia de Datos
+             para responder necesidades concretas."""
         ),
 
         html.Div(
