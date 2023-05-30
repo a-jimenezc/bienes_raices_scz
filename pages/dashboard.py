@@ -23,9 +23,12 @@ title = html.H1(["Dashboard"],
 
 introductory_paragraph = html.P(
             ["""Se presentan estadísticas y gráficos descriptivos de la 
-            base de datos usada para entrenar el modelo."""],
+            base de datos usada para entrenar el modelo. Para una mejor experiencia, 
+            se recomienda abrir esta página en la computadora."""],
             style={'text-align': 'left',
-                   'margin-left' : '5%'
+                   'margin-left' : '5%',
+                   'font-size': '18px',
+
                         })
 
 #indicadores
