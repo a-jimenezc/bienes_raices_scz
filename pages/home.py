@@ -16,8 +16,8 @@ dash.register_page(__name__, path='/', title="Estimador")
 
 text_intro_model = html.Div([
     html.H5("Introducir los valores necesarios:")
-], style={'text-align': 'left',
-          'margin-left': '20%'})
+    ], style={'text-align': 'left',
+            'margin-left': '20%'})
 
 input = html.Div([
     html.Div([

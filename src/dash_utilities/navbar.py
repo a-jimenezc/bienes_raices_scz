@@ -7,8 +7,8 @@ navbar = dbc.NavbarSimple(
         dbc.DropdownMenu(
             children=[
                 dbc.DropdownMenuItem("Estimar", href="/"),
-                dbc.DropdownMenuItem(divider=True),
-                dbc.DropdownMenuItem("Gráficos", href="#"),
+                #dbc.DropdownMenuItem(divider=True),
+                dbc.DropdownMenuItem("Dashboard", href="/dashboard"),
                 dbc.DropdownMenuItem("Acerca de", href="/about"),
             ],
             nav=True,
