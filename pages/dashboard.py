@@ -23,7 +23,7 @@ title = html.H1(["Dashboard"],
 
 introductory_paragraph = html.P(
             ["""Se presentan estadísticas y gráficos descriptivos de la 
-            base de datos usada para entrenar el modelo"""],
+            base de datos usada para entrenar el modelo."""],
             style={'text-align': 'left',
                    'margin-left' : '5%'
                         })
