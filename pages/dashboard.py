@@ -24,7 +24,7 @@ title = html.H1(["Dashboard"],
 introductory_paragraph = html.P(
             ["""Se presentan estadísticas y gráficos descriptivos de la 
             base de datos usada para entrenar el modelo. Además, se incluyen filtros
-            para ajustar las gráficas en los rangos deseados. Para una mejor experiencia, 
+            para ajustar las gráficas a los rangos deseados. Para una mejor experiencia, 
             se recomienda abrir esta página en la computadora."""],
             style={'text-align': 'left',
                    'margin-left' : '5%',
