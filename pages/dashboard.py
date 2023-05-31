@@ -23,7 +23,8 @@ title = html.H1(["Dashboard"],
 
 introductory_paragraph = html.P(
             ["""Se presentan estadísticas y gráficos descriptivos de la 
-            base de datos usada para entrenar el modelo. Para una mejor experiencia, 
+            base de datos usada para entrenar el modelo. Además, se incluyen filtros
+            para ajustar las gráficas en los rangos deseados. Para una mejor experiencia, 
             se recomienda abrir esta página en la computadora."""],
             style={'text-align': 'left',
                    'margin-left' : '5%',
@@ -43,7 +44,7 @@ dropdown_menus = html.Div([
                 ], style={
                    'text-align': 'center'
                 }),
-                html.H3(['Seleccionar rango de precios:'], 
+                html.H5(['Seleccionar rango de precios:'], 
                         style={
                             'text-align': 'left',
                             'margin-bottom': '10px'
@@ -56,7 +57,7 @@ dropdown_menus = html.Div([
                     step=10000,
                     value=[20000, 130000],
                 ),
-                html.H3(['Seleccionar el rango del número de habitaciones:'], 
+                html.H5(['Seleccionar el rango del número de habitaciones:'], 
                         style={
                             'text-align': 'left',
                             'margin-bottom': '10px'
@@ -69,7 +70,7 @@ dropdown_menus = html.Div([
                 step=1,
                 value=[1, 8],
             ),
-                html.H3(['Seleccionar el rango del número de baños:'], 
+                html.H5(['Seleccionar el rango del número de baños:'], 
                     style={
                         'text-align': 'left',
                         'margin-bottom': '10px'
@@ -82,7 +83,7 @@ dropdown_menus = html.Div([
                 step=1,
                 value=[1, 4],
             ),
-                html.H3(['Seleccionar el tipo de propiedad:'], 
+                html.H5(['Seleccionar el tipo de propiedad:'], 
                         style={
                             'text-align': 'left',
                             'margin-bottom': '10px'
@@ -98,7 +99,7 @@ dropdown_menus = html.Div([
                     placeholder="Seleccionar el tipo de propiedad",
                     value="",
                 ),
-                html.H3(['Seleccionar la ciudad:'], 
+                html.H5(['Seleccionar la ciudad:'], 
                         style={
                             'text-align': 'left',
                             'margin-bottom': '10px'
@@ -114,7 +115,7 @@ dropdown_menus = html.Div([
                     placeholder="Seleccionar la ciudad",
                     value="",
                 ),
-                html.H3(['Seleccionar la zona:'], 
+                html.H5(['Seleccionar la zona:'], 
                         style={
                             'text-align': 'left',
                             'margin-bottom': '10px'
@@ -200,7 +201,7 @@ layout = html.Div([
                     })
         ],style={
             'display': 'flex',
-            'font-size': '14px', 
+            #'font-size': '14px', 
             }),
 ])
 
