@@ -5,4 +5,6 @@ data/raw_realState_data.db
 notebooks_scripts/utilityFunctions/realState_url.py
 notebooks_scripts/utilityFunctions/__pycache__
 
+
 src/__pycache__
+src/dash_utilities/__pycache__/
