@@ -21,81 +21,112 @@ text_intro_model = html.Div([
 
 input = html.Div([
     html.Div([
+        html.Br(),
+        html.Label("Número de ambientes:"),
+        html.Br(),
         dcc.Input(type="number", 
                   id="ambientes",
-                  placeholder='Número de ambientes',
+                  #placeholder='Número de ambientes',
+                  value = 6,
                   step=1, min=0, #required=True,
                   style={
                         'display': 'inline-block',
                         'text-align': 'center',
-                        'width': '60%',
-                        'margin': '0.25% 0.25% 0.25% 0.25%'}),
+                        'width': '40%',
+                        #'margin': '0.25% 0.25% 0.25% 0.25%'
+                        }),
+        html.Br(),
+        html.Label("Número de dormitorios:"),
+        html.Br(),
+        dcc.Input(
+            type="number",
+            id="no_dormitorios",
+            #placeholder='Número de dormitorios',
+            value = 3,
+            step=1, min=0, #required=True,
+            style={
+                'display': 'inline-block',
+                'text-align': 'center',
+                'width': '40%',
+                #'margin': '0.25% 0.25% 0.25% 0.25%'
+                }),
+        html.Br(),
+        html.Label("Número de Baños:"),
         html.Br(),
         dcc.Input(type="number", 
                   id="no_baños",
-                  placeholder='Número de Baños',
+                  #placeholder='Número de Baños',
+                  value = 2,
                   step=1, min=0, #required=True,
                   style={
                         'display': 'inline-block',
                         'text-align': 'center',
-                        'width': '60%',
-                        'margin': '0.25% 0.25% 0.25% 0.25%'}),
+                        'width': '40%',
+                        #'margin': '0.25% 0.25% 0.25% 0.25%'
+                        }),
+        html.Br(),
+        html.Label("Dimensión del terreno (m2):"),
         html.Br(),
         dcc.Input(
             type="number",
             id="terreno_m2",
-            placeholder='Dimensión del terreno (m2)',
+            value = 400,
+            #placeholder='Dimensión del terreno (m2)',
             step=0.01, min=0, #required=True,
             style={
                 'display': 'inline-block',
                 'text-align': 'center',
-                'width': '60%',
-                'margin': '0.25% 0.25% 0.25% 0.25%'}),
+                'width': '40%',
+                #'margin': '0.25% 0.25% 0.25% 0.25%'
+                }),
+        html.Br(),
+        html.Label("Número de estacionamientos:"),
+        html.Br(),
+        dcc.Input(
+            type="number",
+            id="estacionamientos",
+            #placeholder='Número de estacionamientos',
+            value = 2,
+            step=1, min=0, #required=True,
+            style={
+                'display': 'inline-block',
+                'text-align': 'center',
+                'width': '40%',
+                #'margin': '0.25% 0.25% 0.25% 0.25%'
+                }),
+        html.Br(),
+        html.Label("Área construida (m2):"),
+        html.Br(),
+        dcc.Input(
+            type="number",
+            id="area_constr_m2",
+            #placeholder='Área construida (m2)',
+            value = 100,
+            step=0.01, min=0, #required=True,
+            style={
+                'display': 'inline-block',
+                'text-align': 'center',
+                'width': '40%',
+                #'margin': '0.25% 0.25% 0.25% 0.25%'
+                }),
+        html.Br(),
+        html.Label("Año de construcción:"),
         html.Br(),
         dcc.Input(
             type="number",
             id="año_constr",
-            placeholder='Año de construcción',
+            #placeholder='Año de construcción',
+            value = 2018,
             step=1,
             min=1990, max=2025, #required=True,
             style={
                 'display': 'inline-block',
                 'text-align': 'center',
-                'width': '60%',
-                'margin': '0.25% 0.25% 0.25% 0.25%'}),
+                'width': '40%',
+                #'margin': '0.25% 0.25% 0.25% 0.25%'
+                }),
         html.Br(),
-        dcc.Input(
-            type="number",
-            id="no_dormitorios",
-            placeholder='Número de dormitorios',
-            step=1, min=0, #required=True,
-            style={
-                'display': 'inline-block',
-                'text-align': 'center',
-                'width': '60%',
-                'margin': '0.25% 0.25% 0.25% 0.25%'}),
-        html.Br(),
-        dcc.Input(
-            type="number",
-            id="area_constr_m2",
-            placeholder='Área construida (m2)',
-            step=0.01, min=0, #required=True,
-            style={
-                'display': 'inline-block',
-                'text-align': 'center',
-                'width': '60%',
-                'margin': '0.25% 0.25% 0.25% 0.25%'}),
-        html.Br(),
-        dcc.Input(
-            type="number",
-            id="estacionamientos",
-            placeholder='Número de estacionamientos',
-            step=1, min=0, #required=True,
-            style={
-                'display': 'inline-block',
-                'text-align': 'center',
-                'width': '60%',
-                'margin': '0.25% 0.25% 0.25% 0.25%'}),
+        html.Label("Tipo de propiedad:"),
         html.Br(),
         dcc.Dropdown(
             options = [
@@ -103,23 +134,16 @@ input = html.Div([
                 {'label' : 'Casa', 'value' : 'Casa'},
                 {'label' : 'Casa con Espacio Comercial', 'value' : 'Casa con Espacio Comercial'}, 
                 {'label' : 'Estudio/Monoambiente', 'value' : 'Estudio/Monoambiente'}], 
-                      placeholder='Tipo de propiedad', 
+                      #placeholder='Tipo de propiedad',
+                      value='Casa',
+                      searchable=True,
                       id='tipo_de_propiedad',
                     style={
                         'display': 'inline-block',
                         'text-align': 'center',
-                        'width': '77.5%'}),
+                        'width': '64%'}),
         html.Br(),
-        dcc.Dropdown(
-            options=[
-                {'label': 'Santa Cruz de la Sierra', 'value': 'Santa Cruz de la Sierra'},
-                {'label': 'Porongo', 'value': 'Porongo'}],
-            placeholder='ciudad',
-            id='ciudad',
-            style={
-                'display': 'inline-block',
-                'text-align': 'center',
-                'width': '77.5%'}),
+        html.Label("Zona:"),
         html.Br(),
         dcc.Dropdown(
             options=[
@@ -136,25 +160,51 @@ input = html.Div([
                 {'label': 'Noreste', 'value': 'Noreste'},
                 {'label': 'Suroeste', 'value': 'Suroeste'},
                 {'label': 'Noroeste', 'value': 'Noroeste'}],
-            placeholder='Zona',
+            #placeholder='Zona',
+            value='Este',
             id='zona',
             style={
                 'display': 'inline-block',
                 'text-align': 'center',
-                'width': '77.5%'}),
+                'width': '64%'}),
+        html.Br(),
+        html.Label("Ciudad:"),
+        html.Br(),
+        dcc.Dropdown(
+            options=[
+                {'label': 'Santa Cruz de la Sierra', 'value': 'Santa Cruz de la Sierra'},
+                {'label': 'Porongo', 'value': 'Porongo'}],
+            #placeholder='ciudad',
+            value='Santa Cruz de la Sierra',
+            id='ciudad',
+            style={
+                'display': 'inline-block',
+                'text-align': 'center',
+                'width': '64%'}),
+        html.Br(),
+        html.Label("Ubicación, hacer click en el mapa:"),
+        html.Br(),   
         dcc.Input(
             type="text",
             id="coordenadas",
-            placeholder="Ubicación, hacer click en el mapa",
+            #placeholder="Ubicación, hacer click en el mapa",
+            value='[-17.77909, -63.16245]',
             #required=True,
             style={
                 'display': 'inline-block',
                 'text-align': 'center',
-                'width': '60%',
-                'margin': '0.25% 0.25% 0.25% 0.25%'}),
+                'width': '40%',
+                'margin': '0.25% 0.25% 0.25% 0.25%'
+                }),
         dl.Map(id='MAP_ID',  
                center=[-17.783, -63.182], 
-               zoom=14, children=[dl.TileLayer()],
+               zoom=14, 
+               children=[
+                   dl.TileLayer(),
+                   dl.Marker(id='pin', 
+                             position=[-17.77909, -63.16245], 
+                             draggable=False),
+                   ],
                style={
                 'display': 'inline-block',
                 'text-align': 'center',
@@ -228,17 +278,22 @@ layout = html.Div(children=[
         html.Br(),
         html.Br(),
         html.Br(),
+        html.P('''Versión 1.0 | Última actualización de datos: mayo 2023.''', 
+               style={'fontSize': 10,
+                      'margin-left' : '10%'},)
     ])
 
 ])
 
 @callback(Output('coordenadas', 'value'),
-              [Input('MAP_ID', 'click_lat_lng')])
-def click_coord(e):
-    if e is not None:
-        return json.dumps(e)
+        Output('pin', 'position'),
+        [Input('MAP_ID', 'click_lat_lng')])
+def click_coord(coordinates):
+    init_coordinates = [-17.77909, -63.16245]
+    if coordinates is not None:
+        return json.dumps(coordinates), coordinates
     else:
-        return None
+        return json.dumps(init_coordinates), init_coordinates
     
 @callback(
     Output('output', 'children'),

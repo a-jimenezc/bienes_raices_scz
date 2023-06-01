@@ -44,23 +44,25 @@ dropdown_menus = html.Div([
                 ], style={
                    'text-align': 'center'
                 }),
-                html.H5(['Seleccionar rango de precios:'], 
+                html.P(['Seleccionar rango de precios:'], 
                         style={
                             'text-align': 'left',
-                            'margin-bottom': '10px'
+                            'margin-bottom': '10px',
+                            'font-size': '18px',
                                }),
                 dcc.RangeSlider(
                     id="price-range",
-                    marks={i: f"${i}" for i in range(0, 155000, 30000)},
+                    marks={i: f"${i//1000}k" for i in range(0, 155000, 30000)},
                     min=0,
                     max=150000,
                     step=10000,
                     value=[20000, 130000],
                 ),
-                html.H5(['Seleccionar el rango del número de habitaciones:'], 
+                html.P(['Seleccionar el rango del número de habitaciones:'], 
                         style={
                             'text-align': 'left',
-                            'margin-bottom': '10px'
+                            'margin-bottom': '10px',
+                            'font-size': '18px',
                                }),
                 dcc.RangeSlider(
                 id="bedrooms",
@@ -70,10 +72,11 @@ dropdown_menus = html.Div([
                 step=1,
                 value=[1, 8],
             ),
-                html.H5(['Seleccionar el rango del número de baños:'], 
+                html.P(['Seleccionar el rango del número de baños:'], 
                     style={
                         'text-align': 'left',
-                        'margin-bottom': '10px'
+                        'margin-bottom': '10px',
+                        'font-size': '18px',
                         }),
                 dcc.RangeSlider(
                 id="bathrooms",
@@ -83,10 +86,11 @@ dropdown_menus = html.Div([
                 step=1,
                 value=[1, 4],
             ),
-                html.H5(['Seleccionar el tipo de propiedad:'], 
+                html.P(['Seleccionar el tipo de propiedad:'], 
                         style={
                             'text-align': 'left',
-                            'margin-bottom': '10px'
+                            'margin-bottom': '10px',
+                            'font-size': '18px',
                                }),
                 dcc.Dropdown(
                     id="property-type",
@@ -99,10 +103,11 @@ dropdown_menus = html.Div([
                     placeholder="Seleccionar el tipo de propiedad",
                     value="",
                 ),
-                html.H5(['Seleccionar la ciudad:'], 
+                html.P(['Seleccionar la ciudad:'], 
                         style={
                             'text-align': 'left',
-                            'margin-bottom': '10px'
+                            'margin-bottom': '10px',
+                            'font-size': '18px',
                                }),
                 dcc.Dropdown(
                     id="city",
@@ -115,10 +120,11 @@ dropdown_menus = html.Div([
                     placeholder="Seleccionar la ciudad",
                     value="",
                 ),
-                html.H5(['Seleccionar la zona:'], 
+                html.P(['Seleccionar la zona:'], 
                         style={
                             'text-align': 'left',
-                            'margin-bottom': '10px'
+                            'margin-bottom': '10px',
+                            'font-size': '18px',
                                }),
                 dcc.Dropdown(
                     id="zone",
@@ -203,6 +209,12 @@ layout = html.Div([
             'display': 'flex',
             #'font-size': '14px', 
             }),
+        html.Br(),
+        html.Br(),
+        html.Br(),
+        html.P('''Versión 1.0 | Última actualización de datos: mayo 2023.''', 
+               style={'fontSize': 10,
+                      'margin-left' : '10%'},)
 ])
 
 
