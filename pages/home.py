@@ -126,7 +126,7 @@ input = html.Div([
                 #'margin': '0.25% 0.25% 0.25% 0.25%'
                 }),
         html.Br(),
-        html.Label("Tipo de propiedad:"),
+        html.Label("Seleccionar el tipo de propiedad:"),
         html.Br(),
         dcc.Dropdown(
             options = [
@@ -143,7 +143,7 @@ input = html.Div([
                         'text-align': 'center',
                         'width': '64%'}),
         html.Br(),
-        html.Label("Zona:"),
+        html.Label("Seleccionar la zona:"),
         html.Br(),
         dcc.Dropdown(
             options=[
@@ -168,7 +168,7 @@ input = html.Div([
                 'text-align': 'center',
                 'width': '64%'}),
         html.Br(),
-        html.Label("Ciudad:"),
+        html.Label("Seleccionar la ciudad:"),
         html.Br(),
         dcc.Dropdown(
             options=[
@@ -251,7 +251,7 @@ note_about_output = html.Div([
     html.Br(),
     "(3) Los datos fueron obtenidos de ofertas publicadas en internet, las cuales incluyen la comisión de venta. Esto se verá reflejado en el estimado final del precio.",
     html.Br(),
-    "(4) Para el año de construcción, los valores aceptados varían desde el año 2000 hasta el año 2025"
+    "(4) Para el año de construcción, los valores aceptados varían desde el año 2000 hasta el año 2025."
     ])
     ],style={
                 'display': 'inline-block',
