@@ -12,7 +12,7 @@
 
 La herramienta se hace accesible a través de la siguiente página web, hosting provisto por Google Cloud:
 
-[https://bienes-raices-scz-ohh5653uva-uc.a.run.app/](https://bienes-raices-scz-ohh5653uva-uc.a.run.app/)
+[bienes-raices-scz-ohh5653uva-uc.a.run.app](https://bienes-raices-scz-ohh5653uva-uc.a.run.app/)
 
 ## Requerimientos
 
@@ -79,4 +79,12 @@ En la página principal se presentan los *inputs* para el modelo y adicionalment
 GNU General Public License v2.0
 
 ## Autor
+
 Antonio Jimenez Caballero
+
+## Contacto
+
+antonio.jimzC@gmail.com
+
+[Linkedin](https://www.linkedin.com/in/antonio-jimnzc/)
+
