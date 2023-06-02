@@ -3,7 +3,7 @@
 * Se creó una herramienta que permite **estimar el precio de viviendas** en Santa Cruz de la Sierra. Esto con el fin de proveer una primera aproximación del precio para una diversidad de escenarios.
 * Los datos se extrajeron de páginas donde se ofertan viviendas, en las cuales vienen incluidos el precio y una diferentes características de las mismas. Se utilizó técnicas de **web scraping** para este propósito.
 * Se preprocesaron y se aplicaron técnicas de **feature engineering** a los datos para extraer características útiles para el modelado.
-* Se entrenaron diversos algortimos de regression, utilizando **grid search** para optimizar los *hiperparámetros* y obtener el mejor modelo. Los modelos puestos a prueba fueron: *Lasso Regression*, *Ridge Regression*, *Random Rorest Regressor*, *Support Vector Regression*, *Gradient Boosting Regressor* y *KNN regressor*.
+* Se entrenaron diversos algortimos de regression, utilizando **grid search** para optimizar los *hiperparámetros* y obtener el mejor modelo. Los modelos puestos a prueba fueron: *Lasso Regression*, *Random Rorest Regressor*, *Gradient Boosting Regressor* y *KNN regressor*.
 * Se contruyó una **página web** que permite utilizar el modelo seleccionado. En la misma tambén se hace accesible un **dashboard** para explorar la base de datos utilizada.
 
 ## Página Web
@@ -39,9 +39,27 @@ Luego, se aseguró el correcto formato, *data type*, de cada columna.
 
 Una vez se tuvo una base de datos limpia, se procedió a analizar distintas visualizaciones. A continuación se muestran las más destacadas.
 
-<img src="images/arma.png" alt="Alt text 1" width="400"/> 
+<img src="images/corr.png" alt="Alt text 1" width="300"/>  <img src="images/tipo.png" alt="Alt text 1" width="300"/> <br>
 
-picture1 picture2_1 picture2_2 picture3_1
+<img src="images/zona.png" alt="Alt text 1" width="300"/>  <img src="images/violin.png" alt="Alt text 1" width="300"/>
+
+## Construcción del modelo
+**Gradient Boosting Regressor** fue el que se desempeño mejor, utilizando el *test set* y utilizando el coeficiente de determinación, *r2*, como métrica.
+
+Pare llegar a este resultado, se utilizó **GridSearch** con **Cross Validation** para encontrar los mejores hiperparámetros para los algoritmos considerados. Estos fueron: Random Rorest Regressor*, *Gradient Boosting Regressor* y *KNN regressor*. También se integraron las técnicas de inputación de valores faltantes antes discutidas.
+
+*Lasso Regression* se escogió como modelo base y los otros tres se consideraron debido a la naturaleza no lineal del problema: el precio de las propiedades es fuertemente dependiente de la ubicación, representadas por puntos en un plano.
+
+## Desempeño de los modelos
+* **Lasso Regression** R2(test set) = 0.534
+* **Gradient Boosting Regressor:** R2(test set) = 0.897
+* **Random Forest Regressor:** R2(test set) = 0.871
+* **KNN Regressor:** R2(test set) = 0.853
+
+## Puesta en producción
+En este paso, el modelo se hace accesible mediante una página web utilizando **Dash** como *framework*. En esta, se presenta la página principal con los *inputs* para el modelo y adicionalmente se presenta un **Dashboard** interactivo en el cual se puede explorar con mayor detalle la base de datos usada para entrenar el modelo.
+ 
+<img src="images/zona.png" alt="Alt text 1" width="300"/>  <img src="images/violin.png" alt="Alt text 1" width="300"/>
 
 ## Licencia 
 GNU General Public License v2.0
