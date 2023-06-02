@@ -39,6 +39,8 @@ Luego, se aseguró el correcto formato, *data type*, de cada columna.
 
 Una vez se tuvo una base de datos limpia, se procedió a analizar distintas visualizaciones. A continuación se muestran las más destacadas.
 
+<img src="images/arma.png" alt="Alt text 1" width="400"/> 
+
 picture1 picture2_1 picture2_2 picture3_1
 
 ## Licencia 
