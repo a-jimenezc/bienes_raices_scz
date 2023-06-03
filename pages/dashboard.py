@@ -29,7 +29,6 @@ introductory_paragraph = html.P(
             style={'text-align': 'left',
                    'margin-left' : '5%',
                    'font-size': '18px',
-
                         })
 
 #indicadores
@@ -142,19 +141,16 @@ dropdown_menus = html.Div([
 #gráficos
 plots = html.Div([
         #características de las propiedades
-        html.Div(
-            children=[
+        html.Div([
                 dcc.Graph(id="price-distribution"),
                 html.Div([
                     #número de habitaciones
-                    html.Div(
-                        children=[
+                    html.Div([
                             dcc.Graph(id="bedroom-count"),
                         ],style={'width' : '50%'}
                     ),
                     #tipo de propiedad
-                    html.Div(
-                        children=[
+                    html.Div([
                             dcc.Graph(id="property-type-distribution"),
                         ],style={'width' : '50%'}
                     ),
@@ -164,21 +160,18 @@ plots = html.Div([
             ]
         ),
         #tamaños de terrenos
-        html.Div(
-            children=[
+        html.Div([
                 dcc.Graph(id="property-size"),
             ]
         ),
         html.Div([
             #años de construcción
-            html.Div(
-                children=[
+            html.Div([
                     dcc.Graph(id="time-analysis"),
                 ],style={'width' : '50%'}
             ),
             #mapa
-            html.Div(
-                children=[
+            html.Div([
                     dcc.Graph(id="geospatial-analysis"),
                 ],style={'width' : '50%'}
             ),
@@ -207,14 +200,16 @@ layout = html.Div([
                     })
         ],style={
             'display': 'flex',
+            'margin' : '5%'
             #'font-size': '14px', 
             }),
         html.Br(),
         html.Br(),
-        html.Br(),
         html.P('''Versión 1.0 | Última actualización de datos: mayo 2023.''', 
                style={'fontSize': 10,
-                      'margin-left' : '10%'},)
+                      'margin-left' : '10%'},),
+        html.Br(),
+        html.Br(),
 ])
 
 
