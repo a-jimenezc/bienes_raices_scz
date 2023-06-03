@@ -419,8 +419,8 @@ def update_map(precios, dormitorios, baños, tipo, ciudad, zona):
     df_f = filter_df_for_plot(df.copy(), 
                               precios, dormitorios, baños, tipo, ciudad, zona)
     #mapa
-    df_f.latitud = df_f.latitud.round(decimals=2)
-    df_f.longitud = df_f.longitud.round(decimals=2)
+    df_f.latitud = df_f.latitud.round(decimals=3) + 0.002
+    df_f.longitud = df_f.longitud.round(decimals=3) + 0.002
     fig = px.scatter_mapbox(
         df_f,
         lat="latitud",
