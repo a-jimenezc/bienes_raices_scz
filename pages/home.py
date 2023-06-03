@@ -247,11 +247,15 @@ note_about_output = html.Div([
     html.Br(),
     "(1) El estimado se obtiene a partir de un modelo de aprendizaje automático.",
     html.Br(),
-    "(2) La recolección de los datos usados para entrenar el modelo se llevó a cabo en mayo del 2023.",
+    "(2) Puede dar resultados imprecisos para propiedades con un valor superior a US $ 130 000.",
     html.Br(),
-    "(3) Los datos fueron obtenidos de ofertas publicadas en internet, las cuales incluyen la comisión de venta. Esto se verá reflejado en el estimado final del precio.",
+    "(3) La recolección de los datos usados para entrenar el modelo se llevó a cabo en mayo del 2023.",
     html.Br(),
-    "(4) Para el año de construcción, los valores aceptados varían desde el año 2000 hasta el año 2025."
+    """(4) Los datos fueron obtenidos de ofertas publicadas en internet, 
+    las cuales incluyen la comisión de venta. Esto se verá reflejado en el 
+    estimado final del precio.""",
+    html.Br(),
+    "(5) Para el año de construcción, los valores aceptados varían desde el año 2000 hasta el año 2025."
     ])
     ],style={
                 'display': 'inline-block',
