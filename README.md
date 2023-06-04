@@ -84,7 +84,5 @@ Antonio Jimenez Caballero
 
 ## Contacto
 
-antonio.jimzC@gmail.com
-
 [Linkedin](https://www.linkedin.com/in/antonio-jimnzc/)
 
