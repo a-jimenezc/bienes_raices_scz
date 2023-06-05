@@ -76,7 +76,9 @@ En la página principal se presentan los *inputs* para el modelo y adicionalment
 
 ## Siguientes pasos
 
-Es necesario recabar más datos para ampliar las categorias de propiedades cubiertas por el modelo. También, con una recolección de datos más amplia, es posible extender el modelo para cubrir otras ciudades en el país.
+Es necesario recabar más datos para ampliar el rango de precios y las categorias de propiedades cubiertas por el modelo. Con más datos se puede cubrir propiedades por encima de los US $130 000, límite actual del modelo, y además se puede incluir terrenos, quintas y casas de varios pisos en el mismo. 
+
+También, con una recolección de datos más amplia, es posible extender el análisis para cubrir otras ciudades en el país.
 
 
 ## Licencia 
