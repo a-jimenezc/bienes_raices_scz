@@ -362,8 +362,8 @@ def update_bedroom_count(precios, dormitorios, baños, tipo, ciudad, zona):
                  orientation='h')
     # Update x and y labels
     fig.update_layout(
-        xaxis_title="Habitaciones",
-        yaxis_title="Cantidad de propiedades",
+        xaxis_title="Cantidad de propiedades",
+        yaxis_title="Habitaciones",
         title={
             'y':0.9,
             'x':0.5,
