@@ -2,11 +2,12 @@
 
 ## Resumen del proyecto
 
-* Se creó una herramienta que permite **estimar el precio de viviendas** en Santa Cruz de la Sierra. Esto con el fin de proveer una primera aproximación del precio para una diversidad de escenarios.
+* Se creó una herramienta que permite **estimar el precio de viviendas** en Santa Cruz de la Sierra, Bolivia. Esto con el fin de proveer una primera aproximación del precio para una diversidad de escenarios.
 * Los datos se extrajeron de páginas donde se ofertan viviendas, en las cuales vienen incluidos el precio y diferentes características de las mismas. Se utilizó técnicas de **web scraping** para este propósito.
 * Se preprocesaron y se aplicaron técnicas de **feature engineering** a los datos para extraer características útiles para el modelado.
 * Se entrenaron diversos algoritmos de regresión, utilizando **grid search** para optimizar los *hiperparámetros* y obtener el mejor modelo. Los modelos puestos a prueba fueron: *Lasso Regression*, *Random Forest Regressor*, *Gradient Boosting Regressor* y *KNN Regressor*.
 * Se construyó una **página web** que permite utilizar el modelo seleccionado. En la misma también se hace accesible un **dashboard** para explorar la base de datos utilizada.
+* Adicionalmente se hace accesible el modelo mediante una **API**, esta se implementó usando **Flask**.
 
 ## Página Web
 
@@ -73,6 +74,17 @@ En este paso, el modelo se hace accesible mediante una página web utilizando **
 En la página principal se presentan los *inputs* para el modelo y adicionalmente se presenta un **Dashboard** interactivo en el cual se puede explorar con mayor detalle la base de datos usada para entrenar el modelo.
 
 <img src="images/app1.png" alt="Alt text 1" width="300"/>  <img src="images/app2.png" alt="Alt text 1" width="300"/>
+
+## Siguientes pasos
+
+Es necesario recabar más datos para ampliar el rango de precios y las categorias de propiedades cubiertas por el modelo. Con más datos se puede cubrir propiedades por encima de los US $130 000, límite actual del modelo, y además se puede incluir terrenos, quintas y casas de varios pisos en el mismo. 
+
+También, con una recolección de datos más amplia, es posible extender el análisis para cubrir otras ciudades en el país.
+
+## API
+
+Para mayor detalle: [Link al repositorio de la API](https://github.com/a-jimenezc/bienes_raices_scz_api "Clic para acceder al repositorio").
+
 
 ## Licencia 
 
