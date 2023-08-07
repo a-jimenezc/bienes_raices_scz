@@ -8,6 +8,8 @@ faw = "https://use.fontawesome.com/releases/v6.2.1/css/all.css"
 app = Dash(__name__, use_pages=True, suppress_callback_exceptions=True,
 	   external_stylesheets=[dbc.themes.SPACELAB, faw])
 
+app.title = "my title"
+
 app.layout = html.Div([
     dcc.Loading(
 	    children=[navbar,

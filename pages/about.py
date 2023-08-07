@@ -54,11 +54,9 @@ layout = html.Div(
             html.H3("Sobre el Autor")
         ], style={'text-align': 'center'}),
         dcc.Markdown(
-            """Esta página web fue creada por Antonio Jimenez Caballero, un
-            ingeniero eletromecánico y docente universitario. 
-            Tiene un fuerte interés por la Ciencia de Datos y
-            su potencial para resolver necesidades cotidianas.
-            
+            """Hola, soy Antonio Jimenez y tengo un fuerte interés por la Ciencia de Datos y 
+            su potencial para resolver problemas. En mi GitHub encontrarás otros proyectos en los 
+            que estuve trabajando. 
             """,
             style={'text-align': 'justify'}
         ),
