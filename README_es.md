@@ -15,7 +15,7 @@
 
 La herramienta se hace accesible a través de la siguiente página web, hosting provisto por Google Cloud:
 
-[bienes-raices-scz-ohh5653uva-uc.a.run.app](https://bienes-raices-scz-q3sojgpqiq-uc.a.run.app/)
+[realstate-scz.dsapp.me](https://realstate-scz.dsapp.me/)
 
 ## Requerimientos
 
