@@ -1,5 +1,7 @@
 # Santa Cruz de la Sierra Housing Price Estimator
 
+English | [Español](README_es.md)
+
 ## Project Summary
 
 * This is the repo for a web application that **estimates housing prices** in Santa Cruz de la Sierra, Bolivia. The results can be used for a variety of common scenarios.
