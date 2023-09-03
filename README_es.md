@@ -4,7 +4,7 @@
 
 ## Resumen del proyecto
 
-* Se creó una herramienta que permite **estimar el precio de viviendas** en Santa Cruz de la Sierra, Bolivia. Esto con el fin de proveer una primera aproximación del precio para una diversidad de escenarios.
+* Este es el repositorio de una aplicación web que permite **estimar el precio de viviendas** en Santa Cruz de la Sierra, Bolivia. Esto con el fin de proveer una primera aproximación del precio para una diversidad de escenarios.
 * Los datos se extrajeron de páginas donde se ofertan viviendas, en las cuales vienen incluidos el precio y diferentes características de las mismas. Se utilizó técnicas de **web scraping** para este propósito.
 * Se preprocesaron y se aplicaron técnicas de **feature engineering** a los datos para extraer características útiles para el modelado.
 * Se entrenaron diversos algoritmos de regresión, utilizando **grid search** para optimizar los *hiperparámetros* y obtener el mejor modelo. Los modelos puestos a prueba fueron: *Lasso Regression*, *Random Forest Regressor*, *Gradient Boosting Regressor* y *KNN Regressor*.
